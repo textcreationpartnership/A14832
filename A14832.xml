@@ -1,0 +1,987 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mortification apostolicall Delivered in a sermon in Saint Pauls Church, upon summons received for the Crosse: on the last Sunday in Easter terme, May 21. 1637. By VVilliam VVats, Rector of St. Albans Woodstreet London.</title>
+            <author>Watts, William, 1590?-1649.</author>
+         </titleStmt>
+         <extent>Approx. 136KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A14832</idno><idno type="EEBO-CITATION">99854745</idno>
+  <idno type="VID">20188</idno>
+  <idno type="EEBO-PROQUEST">2240913366</idno>
+  <idno type="STC">STC 25129</idno>
+  <idno type="STC">ESTC S119538</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99854745e"/>
+            <note>(EEBO-TCP ; phase 2, no. A14832)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 20188)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1045:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mortification apostolicall Delivered in a sermon in Saint Pauls Church, upon summons received for the Crosse: on the last Sunday in Easter terme, May 21. 1637. By VVilliam VVats, Rector of St. Albans Woodstreet London.</title>
+                  <author>Watts, William, 1590?-1649.</author>
+               </titleStmt>
+               <extent>[8], 48 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I[ohn] L[egat] for Iohn Cowper, and are to be sold at the Holy Lambe neere the east end of Saint Pauls Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1637.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:20188:1"/>
+            <pb facs="tcp:20188:1"/>
+            <p> MORTIFICATION APOSTOLICALL.</p>
+            <p>DELIVERED IN A SERMON in Saint <hi>Pauls</hi> Church, upon Sum<g ref="char:EOLhyphen"/>mons received for the Crosse: On the last Sunday in Easter Terme, <hi>May</hi> 21. 1637.</p>
+            <p>By VVILLIAM VVATS, Rector of S<seg rend="sup">t</seg>. <hi>Albans</hi> Woodstreet London.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. L.</hi> for <hi>Iohn Cowper,</hi> and are to be sold at the <hi>Holy Lambe</hi> neere the East end of Saint <hi>Pauls</hi> Church.</p>
+            <p>1637.</p>
+            <pb facs="tcp:20188:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:20188:2"/>
+            <head>TO THE MVCH HONORED AND RE<g ref="char:EOLhyphen"/>VEREND, SIR HENRY WOTTON Knight, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: Provost of <hi>Eaton Colledge,</hi> and to the Reverend and Right Worshipfull M<seg rend="sup">r</seg>. Doctor <hi>Collins,</hi> Vice-Provost: M<seg rend="sup">r</seg>. <hi>Weaver,</hi> M<seg rend="sup">r</seg>. <hi>Hales,</hi> M<seg rend="sup">r</seg>. <hi>Bateman,</hi> M<seg rend="sup">r</seg> Doctor <hi>Stokes,</hi> M<seg rend="sup">r</seg>. <hi>Harrison,</hi> and M<seg rend="sup">r</seg>. <hi>Clever;</hi> Fellowes of the same <hi>Colledge:</hi> his ever honored Patrones.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Either my <hi>Affection,</hi> nor <hi>Am<g ref="char:EOLhyphen"/>bition,</hi> could consult happi<g ref="char:EOLhyphen"/>lyer for my <hi>Booke;</hi> then to make it <hi>partner</hi> with me in <hi>condition</hi> even to <hi>live Both,</hi> by the same <hi>Patrones.</hi> The <hi>livelyhood</hi> I by <hi>you</hi> enjoy; I value at a <hi>double Benefice▪</hi> for being conferred by the <hi>free,</hi> and <hi>cheerefull,</hi> and <hi>unexpected, undeserved</hi> consent;
+<pb facs="tcp:20188:3"/> of so <hi>many,</hi> and so <hi>approved</hi> Iudgements: my <hi>Credit</hi> also hath received a <hi>Preferment. Your liberall</hi> minds, (as <hi>free</hi> and <hi>royall</hi> as your <hi>Foundation)</hi> endure no other <hi>Simony,</hi> then the <hi>Thankfull Acknowledgements</hi> of <hi>your Beneficia<g ref="char:EOLhyphen"/>ries:</hi> which to make <hi>tender</hi> of, in the most <hi>publike</hi> and <hi>hearty</hi> manner of expression; is the <hi>Instructions</hi> wherewith <hi>This</hi> is addressed to <hi>you.</hi> Honor it, (I beseech you), with <hi>your Livery:</hi> as <hi>you</hi> have the <hi>Author,</hi> with <hi>your Li<g ref="char:EOLhyphen"/>ving.</hi> And if the excellently learned <hi>Society</hi> of <hi>Eaton Colledge,</hi> shall vouchsafe a <hi>second Li<g ref="char:EOLhyphen"/>cence</hi> to my <hi>Booke:</hi> having one <hi>Fold</hi> more, then <hi>Ajax</hi> Buckler had; I shall well hope, it will be full <hi>Censure proofe.</hi> Quickly will eve<g ref="char:EOLhyphen"/>ry <hi>Peruser</hi> understand, how <hi>able</hi> each of <hi>you</hi> is, to examine both my <hi>Reasons</hi> and <hi>Authori<g ref="char:EOLhyphen"/>ties:</hi> and that I durst not enscribe any thing unto <hi>you;</hi> but what were <hi>Iustifiable.</hi> Vnder <hi>your Patronage,</hi> therefore; the <hi>Readers</hi> may be <hi>confident:</hi> that they are not abused. By <hi>you,</hi> then, shall they receive <hi>advantage,</hi> as well as the <hi>Author.</hi>
+            </p>
+            <p>To my <hi>Patrones,</hi> am I bound to give <hi>ac<g ref="char:EOLhyphen"/>count;</hi> both of my <hi>Purpose,</hi> and my <hi>Title.</hi> that from <hi>you,</hi> the <hi>Readers</hi> may understand me.
+<pb facs="tcp:20188:3"/> My <hi>Intention</hi> is, to stirre up the <hi>Times</hi> to doe <hi>that:</hi> which by the <hi>Sermon</hi> they may per<g ref="char:EOLhyphen"/>ceive; the <hi>best men</hi> have done <hi>thus.</hi>
+            </p>
+            <p>My <hi>Title</hi> pretends to <hi>Apostolicall.</hi> for upon the <hi>Doctrine</hi> and <hi>Examples</hi> of the <hi>Apostles;</hi> is the <hi>Mortification</hi> founded, which I here <hi>preach</hi> for. Had I fetcht it from the <hi>Austeri<g ref="char:EOLhyphen"/>ties</hi> of the <hi>Prophets:</hi> it might, perhaps, have beene put off for <hi>Iewish.</hi> Had I derived it no <hi>higher</hi> then the <hi>Primitives:</hi> it might (so <hi>pre<g ref="char:EOLhyphen"/>judicate</hi> are some mens Iudgemens) have beene censured for <hi>superstitious.</hi> Therefore have I entitled it to the <hi>Apostles:</hi> who both revived the <hi>Mortifications</hi> of the <hi>Rechabites</hi> and the <hi>Prophets:</hi> and recommended them unto the <hi>Primitives.</hi> What-ever <hi>examples</hi> might also have beene produced, from the <hi>Essens</hi> or the <hi>Cynicks</hi> (which by many <hi>Rea<g ref="char:EOLhyphen"/>dings,</hi> I could have enlarged) must yet also have resolved, into <hi>mortification Apostolicall.</hi> for 'twas the <hi>Apostles</hi> which did <hi>perfect,</hi> and (if I may so say) which did also <hi>Christen;</hi> that <hi>severe Philosophy.</hi> The <hi>lives</hi> of the holy <hi>Pri<g ref="char:EOLhyphen"/>mitives,</hi> being the <hi>practicallest Expositors,</hi> of the <hi>Apostles:</hi> from them have I deduced the frequentest of my <hi>examples.</hi> This I can as<g ref="char:EOLhyphen"/>sure,
+<pb facs="tcp:20188:4"/> that this same <hi>selfe denying, world-deny<g ref="char:EOLhyphen"/>ing</hi> way of <hi>mortifying:</hi> was not, in those <hi>Ages,</hi> censured to be <hi>Popery.</hi> of which had this <hi>mortification</hi> any <hi>tack</hi> or <hi>relish:</hi> both my <hi>Iudgement</hi> and <hi>affection,</hi> would be averse enough; from becomming <hi>Brokers</hi> for it. Most knowne it is, that the examples of those plot-lesse <hi>Mortifiers;</hi> brought uncredible ac<g ref="char:EOLhyphen"/>cesses unto <hi>Christs</hi> Kingdome: and that in the most licentious <hi>Nations</hi> and <hi>Ages.</hi> And how highly God almightie expressed his be<g ref="char:EOLhyphen"/>ing <hi>pleased</hi> with them: the many <hi>miracles</hi> and <hi>blessings,</hi> which by them he vouchsafed to his <hi>Church;</hi> are abundant witnesses. And these not storyed, in uncertaine <hi>Legends:</hi> for which of the <hi>Fathers,</hi> hath not written them with <hi>admiration?</hi> Ill luck should both <hi>they,</hi> and I encounter with, (and the <hi>Readers</hi> with worse) should their <hi>examples</hi> now onely be<g ref="char:EOLhyphen"/>come <hi>unfruitfull.</hi> A more <hi>unhappinesse</hi> were it, for any to <hi>maligne</hi> them. which I am con<g ref="char:EOLhyphen"/>fident none will doe, but the <hi>guiltie.</hi> Such, as maintaining too magnificent an opinion of their owne <hi>holinesse:</hi> shall like, <hi>Pachomius</hi>
+               <note place="margin">Palladius; in Histor. Lau<g ref="char:EOLhyphen"/>siaca. in Ma<g ref="char:EOLhyphen"/>cario.</note> disciples, grumble at the more mortified <hi>Ma<g ref="char:EOLhyphen"/>carius;</hi> for out-doing them in the <hi>austerities</hi>
+               <pb facs="tcp:20188:4"/> they professed. But the number of these, will be lesse, if this <hi>Doctrine</hi> takes.</p>
+            <p>My <hi>Intentions,</hi> (God knowes) are honest. and with the same diligence I have <hi>written,</hi> will I <hi>pray:</hi> that God <hi>would vouchsafe a bles<g ref="char:EOLhyphen"/>sing to them.</hi> For the more hopefull attaining whereof, I most humbly intreat the joy<g ref="char:EOLhyphen"/>ning of <hi>your</hi> zealous prayers: <hi>ô you beloved of God.</hi> Vnto whose highest <hi>patronage,</hi> I hear<g ref="char:EOLhyphen"/>tily commend <hi>you</hi> all: my most honored <hi>Patrones.</hi> Resting</p>
+            <closer>
+               <dateline>
+                  <hi>From your Patronage, and my Parish, of Saint</hi> Albans <hi>Woodstreet London.</hi>
+                  <date>Iune 8. 1637.</date>
+               </dateline>
+               <signed>Your ever thankfull and obliged Clerke, VVILLIAM VVATS.</signed>
+            </closer>
+         </div>
+         <div type="license">
+            <pb facs="tcp:20188:5"/>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <signed>SA: BAKER.</signed>
+               <dateline>
+                  <date>Maii 22. 1637. Modo intra 3. menses proxime sequentes.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:20188:5"/>
+            <head>MORTIFICATION APOSTOLICALL.</head>
+            <epigraph>
+               <q>
+                  <bibl>COLOSS. 3. Part of the fifth verse.</bibl>
+                  <p>
+                     <hi>Mortifie therefore.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Entecoste,</hi> (as the <hi>Fathers</hi>
+               <note n="a" place="margin">
+                  <hi>Concil Nicaen. can.</hi> 20. <hi>Tertull: l. de Jdol. c.</hi> 14. <hi>Aug. Epist.</hi> 1 9. <hi>Hicrome in Proaem: Epist. ad Ephes. et in</hi> Amos <hi>cap.</hi> 5. <hi>Epiphan: adv. Haereses lib.</hi> 3. <hi>Tom.</hi> 1. <hi>p.</hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>10.</note> call these fiftie daies betwixt <hi>Easter</hi> and <hi>Whit<g ref="char:EOLhyphen"/>sunday)</hi> primitively, was the cheer<g ref="char:EOLhyphen"/>fullest and most festivall, of all the yeare. <hi>These, we passe over with all rejoycing,</hi> sayes <hi>Tertullian</hi>
+               <note n="b" place="margin">
+                  <hi>L. de Jejun: c.</hi> 14.</note>. The joy<g ref="char:EOLhyphen"/>full <hi>Hallelujah,</hi> was now their daily <hi>Antheme</hi> at the <hi>Altar;</hi> sayes Saint <hi>Augustine</hi>
+               <note n="c" place="margin">
+                  <hi>Epist.</hi> 119. <hi>c.</hi> 15.</note>. Every <hi>working-day,</hi> now; had the priviledge of a <hi>Sunday:</hi> say the <hi>Nicene Councell,</hi> and <hi>Tertullian</hi>
+               <note n="d" place="margin">
+                  <hi>Can.</hi> 20. <hi>Tert. lib. de Corona. c.</hi> 3.</note>. They used no <hi>devo<g ref="char:EOLhyphen"/>tion</hi> now, that might <hi>afflict</hi> them▪ not so much as <hi>kneele</hi> at their publike-prayers: as being dispensed with, to <hi>stand</hi> altogether; say many <hi>Fathers</hi>
+               <note n="e" place="margin">
+                  <hi>Irenaeus,</hi> quo<g ref="char:EOLhyphen"/>ted by the Re<g ref="char:EOLhyphen"/>sponsator in <hi>Justin Martyr,</hi> in Respons. 115. <hi>Tertull. l. de Corona c.</hi> 3. <hi>Concil. Nicaen. c.</hi> 20.</note>. All this <hi>Ioy,</hi> was for our blessed <hi>Saviours Resurrection,</hi> say Saint <hi>Hierome</hi>
+               <note n="f" place="margin">In Pro<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mio Epist ad Ephes.</note>, and Saint <hi>Augustine</hi>
+               <note n="g" place="margin">
+                  <hi>Epist.</hi> 119. <hi>c.</hi> 15.</note>. And makes not all this, a <hi>Text</hi> of <hi>Mortification</hi> to appeare unseasonable?</p>
+            <p>Especially falling, therewithall; to bee <hi>unsuitable</hi> to the <hi>Church-Service.</hi> The <hi>Epistle</hi> for the day, exhorts to <hi>Hospitalitie:</hi> primitively at this time of the yeare fre<g ref="char:EOLhyphen"/>quented. <hi>We release</hi> or <hi>intermit</hi> all <hi>fasting,</hi> for this time: sayes Saint <hi>Augustine</hi>
+               <note n="h" place="margin">Vbi supra.</note>. Yea <hi>we hold it a sinne (nefas) to</hi>
+               <pb n="2" facs="tcp:20188:6"/>
+               <hi>fast</hi> in these fiftie dayes, saies <hi>Tertullian</hi>
+               <note n="i" place="margin">
+                  <hi>De Corona. c.</hi> 3.</note>. For the <hi>Ioy</hi> of our <hi>Saviours Resurrection;</hi> encreased with the <hi>rejoycing</hi> of the <hi>newly baptized,</hi> and of their friends: occasioned daily <hi>Love-feasts,</hi> and neighbourly entertainments; say many <hi>Fathers.</hi> The <hi>cöincidence</hi> of these <hi>occasions,</hi> made this <hi>Season</hi> to be held a second <hi>Christmas.</hi> But no wayes prophaned, with that <hi>ryot</hi> and gaming, wee keepe <hi>Christ<g ref="char:EOLhyphen"/>mas,</hi> now: the <hi>unchristian</hi> example whereof, <hi>Hector Boe<g ref="char:EOLhyphen"/>tius</hi>
+               <note n="a" place="margin">
+                  <hi>In Hist: Scot. l.</hi> 9. <hi>p.</hi> 160.</note> tels us; was first brought into our <hi>Iland</hi> by King <hi>Arthurs</hi> soldiours, after their taking of <hi>Yorke</hi> Citie.</p>
+            <p>This <hi>Sunday,</hi> also, the <hi>Gospel</hi> speakes of <hi>Comforting,</hi> not of <hi>Mortifying.</hi> So that this way, too; the <hi>Text</hi> appeares <hi>unseasonable.</hi>
+            </p>
+            <p>Generally, I glory to be an imitator of the holy <hi>Pri<g ref="char:EOLhyphen"/>mitives:</hi> an Obedient of the <hi>Church</hi> of <hi>England:</hi> and no <hi>medler</hi> with our Novellers, <hi>that are given to change.</hi> D<seg rend="sup">r</seg>. <hi>Barnes</hi>
+               <note n="b" place="margin">This he did to confute his adversary: but spoyld a good cause, by indis<g ref="char:EOLhyphen"/>creet naming and provoking <hi>Steven Gardner</hi> to a <hi>Cock-fight.</hi> saying, the ad<g ref="char:EOLhyphen"/>verse Cock wanted spurs and that hee would give him 6. stripes: casting him his glove. This caused his martyrdome. See <hi>Wintons</hi> de<g ref="char:EOLhyphen"/>clarat. to <hi>G. Joy,</hi> &amp; B. Martyrs, <hi>Anno</hi> 1539. <hi>p.</hi> 1093.</note> first broke the custome of preaching upon the <hi>Gospel</hi> for the day: taking another mans Text in his Sermon at <hi>Pauls Crosse.</hi> As <hi>Cartwright,</hi> (contrary to the practise of all, or the most <hi>Reformed Churches</hi>
+               <note n="c" place="margin">The <hi>Lutheran</hi> Churches, are so punctu<g ref="char:EOLhyphen"/>all, that they print the appointed Texts, in their Almanacks. The <hi>Order</hi> for the <hi>English</hi> Churches in <hi>Denmarke,</hi> &amp;c. set forth by <hi>Miles Coverdall;</hi> had no <hi>Prayer</hi> at all, before <hi>Ser<g ref="char:EOLhyphen"/>mon:</hi> but <hi>Come holy Ghost</hi> sung, whilest the Preacher was in the Pulpit. Much the same fa<g ref="char:EOLhyphen"/>shion, had the <hi>Liturgy</hi> for the <hi>strangers of Strasburgh:</hi> set out by <hi>Valeran Pollan</hi> 1551. where the Preacher is in two lines directed to pray for the assistance of the Spirit: that hee may deliver things profitable for the Church. no more. In other <hi>Reformed Churches,</hi> They had either a <hi>Prayer</hi> before <hi>Sermon,</hi> and a <hi>Confession</hi> after it: or contrary. The first order was observed in the Church of <hi>Tigur</hi> or <hi>Zurich:</hi> set forth by <hi>Lavater</hi> 1559. In which are two formes of prayer before Sermon: the latter (which he sayes was for Tuesday, and Thurs<g ref="char:EOLhyphen"/>day) but eight lines long, besides the <hi>Lords Prayer</hi> which concludes it. The prayer after Sermon, is almost as short. In the Churches of <hi>Heidelberg,</hi> That of the <hi>Dutch</hi> Church in <hi>London,</hi> ordered by <hi>Iohannes a Lasco,</hi> under King <hi>Edward</hi> the Sixths Patent, 1550. Yea and in all those three formes of <hi>Common Prayer;</hi> made (with differences enow) by the disaf<g ref="char:EOLhyphen"/>fected to our <hi>Common Prayer booke;</hi> and upon a hope to have one of them take in stead of it: in the severall yeares, 1585, 1586, and 1587: the formes of <hi>Confession,</hi> together with the prayer for the whole state of the Church: and the prayer after Sermon, be prescribed.</note>, who in their <hi>Agenda</hi> or <hi>Rituals,</hi> appoynt <hi>formes</hi> of <hi>Prayers</hi> or
+<pb n="3" facs="tcp:20188:6"/>
+               <hi>Confession,</hi> to their <hi>Preachers,</hi> both before and after <hi>Ser<g ref="char:EOLhyphen"/>mon:</hi> and in opposition to King <hi>Edwards,</hi> and Queene <hi>Elizabeths Injunctions;</hi> first brought in this <hi>voluntary kind</hi> (I cannot call it <hi>forme)</hi> of <hi>Prayer,</hi> before the <hi>Sermon</hi>
+               <note n="d" place="margin">For so the Reverend Bishop <hi>Andrewes,</hi> and others of those times; have reported.</note>.</p>
+            <p>Against all this imputation of <hi>Non-Conformitie,</hi> am I excused by my <hi>Context:</hi> which assures my <hi>Text</hi> not one<g ref="char:EOLhyphen"/>ly to be <hi>seasonable,</hi> but <hi>pertinent.</hi> and that, both to the <hi>Resurrection,</hi> and <hi>Ascension</hi> of our blessed <hi>Saviour:</hi> men<g ref="char:EOLhyphen"/>tioned in the <hi>first verse.</hi> With whom we cannot rise in <hi>Newnesse of life;</hi> nor by <hi>setting our affection on heavenly things, ascend</hi> after him: till wee have beene <hi>dead, and our life hidden with him;</hi> as in the <hi>third verse.</hi> Which <hi>death,</hi> being no other then our <hi>Mortification: Mortifie there<g ref="char:EOLhyphen"/>fore;</hi> sayes the <hi>Apostle.</hi> So the <hi>Text</hi> is <hi>seasonable.</hi>
+            </p>
+            <p>And, alas! there is a <hi>Therefore</hi> in the <hi>Time,</hi> as well as in the <hi>Text:</hi> that calls for <hi>mortifying.</hi> Where <hi>Gods Iudge<g ref="char:EOLhyphen"/>ments,</hi> (as at this present) have interrupted the Churches order of <hi>Rejoycing;</hi> the <hi>Preacher</hi> is to serve the <hi>time,</hi> rather then the <hi>Custome. Salus populi, supremalex.</hi> The <hi>saving of the people</hi> (if it may be) by turning away <hi>Gods</hi> anger; is a<g ref="char:EOLhyphen"/>bove all <hi>Church-orders.</hi> In such a case, <hi>Mammertus</hi>
+               <note n="a" place="margin">
+                  <hi>Aimoin: Hist. Franc: l.</hi> 1. <hi>c.</hi> 25. <hi>Greg. Turonens. l.</hi> 2 <hi>c.</hi> 34</note> Bi<g ref="char:EOLhyphen"/>shop of <hi>Vienne,</hi> did not <hi>uncanonically;</hi> to alter the <hi>anniver<g ref="char:EOLhyphen"/>sary festivitie</hi> of this very <hi>season,</hi> by appointing a solemne <hi>mortification</hi> of a <hi>three daies Fast;</hi> as in the beginning of the <hi>last weeke:</hi> and to make a <hi>Letany,</hi> to bee sung in a <hi>bare-footed Procession;</hi> upon the <hi>great,</hi> and at other times most <hi>festivall day,</hi> of the <hi>Ascension.</hi>
+            </p>
+            <p>A greater occasion (God helpe us) wee have at this present: even a <hi>two-yeares mortality. Therefore</hi> is't not time to <hi>mortifie?</hi> Even to kill those sinnes which pro<g ref="char:EOLhyphen"/>voke our <hi>killing. For thy sake were wee killed all the yeare long; and are as sheepe</hi> the second yeare <hi>appointed to the slaughter:</hi>
+               <note n="b" place="margin">Psal. 44. 22.</note> may we say to sinne. <hi>Ira dei, est venenum:</hi>
+               <pb n="4" facs="tcp:20188:7"/>
+               <hi>Gods anger, is most strong poyson:</hi> 'tis that which makes the <hi>plague</hi> to be <hi>infectious.</hi> No such <hi>Antidote</hi> or Preser<g ref="char:EOLhyphen"/>vative against it, as <hi>Mortification.</hi>
+            </p>
+            <p>Yea the very dimme <hi>light of nature,</hi> discovered thus much direction unto the Gentiles: to appease their gods in such cases, with a <hi>bare-footed procession. Nud pedalia instituuntur,</hi> sayes <hi>Tertullian</hi>
+               <note n="a" place="margin">
+                  <hi>Apolog. c</hi> 40.</note>. And what the <hi>Christians</hi> would then have done, his next words may assure us. <hi>Withering away our bodies with fasting; holding in our de<g ref="char:EOLhyphen"/>sires, to all kinds of Continencie; loosing, or putting off many a frugall meale; praying prostrate in Sack cloath and ashes: we beat strongly at heaven gates; we strike God with compas<g ref="char:EOLhyphen"/>sion; and even forcibly we wrest mercy from him.</hi> Aye, this is the way, even to make the <hi>Sicknesse</hi> it selfe; to die of the <hi>plague:</hi> and to procure the <hi>Almightie</hi> to execute what he threatned by his Prophet<note n="b" place="margin">Hosea. 13. 14.</note>, <hi>O Death I wil be thy plague!</hi> In King <hi>Edward</hi> the Thirds time, three hundred and nine yeares since, (as our <hi>Chronicles</hi> make report) here was an universal plague over <hi>England:</hi> so great, that it consumed almost two third parts of the Kingdome. Yea in <hi>Nor<g ref="char:EOLhyphen"/>wich Diocesse</hi>
+               <note n="c" place="margin">Records of that Bi<g ref="char:EOLhyphen"/>shoprick.</note> alone; eight hundred <hi>Parsons</hi> of Churches died in one yeare. This continuing in <hi>London</hi> all the <hi>winter,</hi> and the next <hi>Spring:</hi> in the end of <hi>May,</hi> ceased, there, unexpectedly. <hi>Gods hand is not shortned</hi>
+               <note n="d" place="margin">Esa. 59. 1.</note>, a gene<g ref="char:EOLhyphen"/>rall, and a sincere <hi>mortification,</hi> might all in good time, procure <hi>the Sunne of righteousnesse, to arise with healing in his wings</hi>
+               <note n="e" place="margin">Mal. 4. 2.</note>. <hi>Mortifie therefore.</hi> the <hi>Text</hi> is very <hi>sea<g ref="char:EOLhyphen"/>sonable.</hi>
+            </p>
+            <p>To draw towards a <hi>Division. Credenda</hi> and <hi>Facienda; Articles</hi> to be <hi>believed, Duties</hi> to be <hi>practised;</hi> containe all <hi>Divinitie.</hi> The <hi>Apostle,</hi> therefore, having settled the <hi>Colossians Faith,</hi> in the foure first <hi>verses:</hi> comes here to the ordering of their <hi>Moralities,</hi> in the <hi>fifth.</hi> And neces<g ref="char:EOLhyphen"/>sarily.
+<pb n="5" facs="tcp:20188:7"/> In points of <hi>Knowledge</hi> or of <hi>Faith:</hi> how strong soever our <hi>Intellectuals</hi> be; if our <hi>Moralls</hi> be naught, all is naught. In point of <hi>Government;</hi> your honourable <hi>Bench</hi> of <hi>Skarlet,</hi> should not so often bee troubled with Offenders: could we <hi>Pulpit-men</hi> first have <hi>mortified</hi> their <hi>moralities.</hi> With you <hi>Lay men,</hi> I beleeve; our <hi>Morall demonstrations</hi> conclude more strongly then our <hi>Logicall.</hi> and with us <hi>Clergy men,</hi> beleeve you; the civill, honest, morall man, that is a conscionable <hi>Practiser:</hi> is allowed for a better <hi>Christian,</hi> then the fruitlesse and onely verball <hi>Professor.</hi> Tis <hi>Mortification,</hi> now, which must correct, the enormities of our <hi>Morals;</hi> and that must civilize our <hi>Conversations. Mortifie therefore.</hi>
+            </p>
+            <p>
+               <label>Division.</label> The two <hi>words,</hi> make two <hi>Parts.</hi> First an <hi>Exhortation to a duty: Mortifie.</hi> Secondly, an <hi>Enforcement</hi> taken from the occasion: <hi>Therefore.</hi>
+            </p>
+            <p>In the first <hi>Part</hi> (which I shall onely handle at this time) I consider the <hi>Why,</hi> and the <hi>How:</hi> the <hi>Ends,</hi> and the <hi>Manner,</hi> of our <hi>Mortifying.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>1. The <hi>End,</hi> Why we should <hi>mortifie.</hi>
+               </head>
+               <p>The <hi>End,</hi> is still the first Argument in <hi>perswading.</hi> And the <hi>End</hi> for which I would perswade you to <hi>mor<g ref="char:EOLhyphen"/>tifie,</hi> is twofold.</p>
+               <list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> First to stay our further provoking of <hi>Gods</hi> Anger. </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, to fit and dispose our selves, for the pro<g ref="char:EOLhyphen"/>curing of <hi>his</hi> favour.</item>
+               </list>
+               <div n="1" type="end_of_mortification">
+                  <head>1. <hi>End:</hi> How to stay our further provoking of <hi>Gods</hi> anger.</head>
+                  <p>And the readiest way to that; is to make stay of those <hi>Sinnes,</hi> which cannot but <hi>provoke</hi> him. Nor is there any so sure a meanes to worke that, as by <hi>disabling</hi> Sinne in the <hi>Causes</hi> of it. even to <hi>mortifie Lust,</hi> and all evill <hi>Con<g ref="char:EOLhyphen"/>cupiscence</hi> in us. The way to quench a <hi>Scarre-fire,</hi> is not
+<pb n="6" facs="tcp:20188:8"/> to throw away your water, upon the <hi>toppe</hi> of the <hi>flame:</hi> but to dash it upon the <hi>roote</hi> or <hi>fountaine,</hi> of this or that <hi>branch</hi> of it. even upon that place of the poast, where it <hi>first breakes forth:</hi> and from whence it hath its <hi>mainte<g ref="char:EOLhyphen"/>nance.</hi> Deale thus with <hi>Lust.</hi> which though it hath its <hi>sparke</hi> from corrupt nature; yet is its <hi>flame</hi> maintained, by our <hi>fleshlinesse.</hi> Tis our <hi>flesh;</hi> tis our <hi>body,</hi> then; that must be <hi>mortified:</hi> and by that meanes must <hi>Lust</hi> come to be <hi>disabled. Sinne reignes in the body</hi>
+                     <note n="a" place="margin">Rom. 6. 12.</note>. Whosoever, then, would <hi>have the body of sinne destroyed</hi> in him<note n="b" place="margin">Rom. 6. 6.</note>: must <hi>mortifie the deeds of the body</hi>
+                     <note n="c" place="margin">Rom. 8. 13.</note>. nor is there any meanes to doe that, but the practice of the Apostle: to <hi>keepe under our bodies, and bring them into subjection</hi>
+                     <note n="d" place="margin">1 Cor. 9. 27.</note>.</p>
+                  <p>Otherwise, that same <hi>law in our members, warring a<g ref="char:EOLhyphen"/>gainst the law of our mind: will bring us into captivitie to the law of sinne, that is in our members</hi>
+                     <note n="e" place="margin">Rom. 7. 23.</note>.</p>
+                  <p>And here; I beseech you give me leave, to propose two directions to the unexperienced: for their more me<g ref="char:EOLhyphen"/>thodicall going about their <hi>Mortifying.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, to endeavour how to bring our selves out of love with <hi>sinne:</hi> and then to bring it into hatred with us. Both these will the easilier be brought to passe; by seriously considering the <hi>ugly</hi> nature of <hi>Sinne</hi> in it selfe: and by taking notice, withall, of the <hi>danger</hi> it hath alrea<g ref="char:EOLhyphen"/>dy engag'd us in.</p>
+                  <p>And that aswell some particular sinne; which is a<g ref="char:EOLhyphen"/>gainst our <hi>present</hi> and <hi>private</hi> good <hi>purpose:</hi> as against <hi>Sinne</hi> in generall.</p>
+                  <p>See examples of good men, in both of them. The holy Primitive <hi>Fathers,</hi>
+                     <note n="d" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Virginitie and fingle life, is a high matter: which rancks a man in equa<g ref="char:EOLhyphen"/>litie with the Angels. <hi>Nazi<g ref="char:EOLhyphen"/>anzen. Orat.</hi> 20.</note> were great Professors of <hi>Cha<g ref="char:EOLhyphen"/>stity,</hi> in their owne bodies: which rather then the zealous <hi>Origen</hi> would corrupt; he protested himselfe (being put to one of them) willing rather to commit <hi>Idolatry,</hi> then
+<pb n="7" facs="tcp:20188:8"/>
+                     <hi>fornication</hi>
+                     <note n="e" place="margin">
+                        <hi>Epiphan. in Panario. Heresi</hi> 64. <hi>num.</hi> 2.</note>. Admirable was that of Saint <hi>Basil:</hi> who af<g ref="char:EOLhyphen"/>ter Gods taking away his long <hi>head-ache,</hi> at his earnest prayer; perceiving when his griefe was gone, some <hi>mo<g ref="char:EOLhyphen"/>tions</hi> begin to rebell in him: pray'd God, the second time, rather to have his <hi>head-ache</hi> restored, then his <hi>lust</hi> trou<g ref="char:EOLhyphen"/>ble him<note n="f" place="margin">Vita Basil<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note>. Twas a higher expression, yet; of an old <hi>Mor<g ref="char:EOLhyphen"/>tifier:</hi> who protested hee had rather fall into <hi>Hell,</hi> then into <hi>Sinne</hi>
+                     <note n="g" place="margin">Pallad. in Hist. Laus.</note>. By these <hi>Examples</hi> you may perceive, the zeale by some good men conceived against Sinne. But if we cannot <hi>hate sinne,</hi> at first, with so <hi>perfect a hatred:</hi> let us yet endeavour so farre to hate it, as to be contented for to <hi>leave</hi> it: though together with it, wee forgoe either the <hi>pleasures</hi> or the <hi>profits,</hi> that heretofore we enjoyed by it. And let this be something towards the first <hi>direction.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> The second, may be some such thing as this. even to set our <hi>reasons</hi> to <hi>answer</hi> and to <hi>satisfie,</hi> the <hi>Arguments</hi> and <hi>objections</hi> of the <hi>Tempter;</hi> by which he diswades us from <hi>forsaking</hi> of our <hi>Sinnes.</hi> As, That Sinne now <hi>reignes,</hi> by a kinde of <hi>law</hi> in us. The Apostle <hi>found a law in his mem<g ref="char:EOLhyphen"/>bers</hi>
+                     <note n="h" place="margin">Rom. 7. 23.</note>. Now tis hard to controll a <hi>law:</hi> which both the <hi>members,</hi> and the <hi>Will;</hi> have contentedly, already, sub<g ref="char:EOLhyphen"/>mitted to. yea <hi>Sinne</hi> makes it selfe as it were <hi>necessary</hi> un<g ref="char:EOLhyphen"/>to us. Saint <hi>Augustine</hi>
+                     <note n="i" place="margin">
+                        <hi>Confess. lib.</hi> 8. <hi>cap.</hi> 11.</note> tels us, how in the very Agony of his <hi>conversion,</hi> when hee had already <hi>licenced</hi> and sha<g ref="char:EOLhyphen"/>ken off his old <hi>pleasures:</hi> they <hi>shocke him by the garment of his flesh,</hi> and <hi>rowned him softly in the eare: Canst thou thus part with us? and shall wee be thy Companions, from henceforth no more for ever?</hi> Nay, <hi>Thinkest thou to be ever able, to live without this or that pleasure?</hi> So that offer but a holy <hi>violence</hi> to a <hi>sinne;</hi> to <hi>tame</hi> your body and to <hi>beate</hi> it <hi>under:</hi> it takes the <hi>law</hi> of you presently: it pleads <hi>cu<g ref="char:EOLhyphen"/>stome;</hi> the <hi>Charter</hi> of its <hi>Corporation;</hi> and <hi>Reason</hi> of <hi>State</hi> with you. As, <hi>Take heed, of these same tamings, and</hi>
+                     <pb n="8" facs="tcp:20188:9"/>
+                     <hi>these same Mortifyings: lest whilest you disable lust, you de<g ref="char:EOLhyphen"/>cay not strength and health too. yea whiles you weede up the tares, you plucke not up the good corne with it</hi>
+                     <note n="k" place="margin">Math. 13. 30.</note>. Thus like a man shot with a <hi>barbed arrow,</hi> the very flesh must be cut, before you get the <hi>ranckling head</hi> out of it. If you ob<g ref="char:EOLhyphen"/>ject; <hi>Qui pascit ventrem, nutrit hostem, he that pampers his belly, nurses up a bosome enemy:</hi> it instantly returnes the Argument upon you: <hi>Qui non nutrit ventrem, necat ci<g ref="char:EOLhyphen"/>vem, He that maintaines not his belly, breakes a Citizen:</hi> and that, you know, is a dangerous matter. Some such like, are <hi>Sinnes Arguments: flesh and blood</hi> will never be <hi>tongue<g ref="char:EOLhyphen"/>tyed</hi> in his owne businesse; Ile assure you.</p>
+                  <p>Whereunto, these sound <hi>Answers</hi> may be returned; That <hi>Mortifiers</hi> desire not to <hi>kill the Gibeonites,</hi> but to make them <hi>serviceable</hi>
+                     <note n="l" place="margin">Iosuah. 9. 21.</note>. That wee may safely <hi>mortifie a member;</hi> and yet not <hi>cut it off, and cast it from</hi>
+                     <note n="m" place="margin">Math. 5. 29.</note>
+                     <hi>us.</hi> That we may leave old <hi>Adams</hi> body all his <hi>limbes;</hi> and yet make them as <hi>uselesse</hi> to him, as those of a <hi>dead</hi> man, or of a <hi>Carcasse.</hi> That the <hi>death</hi> desired by <hi>Mortifyers;</hi> though it be indeed, a kinde of <hi>martyrdome:</hi> yet is it but <hi>vivum martyrium;</hi> a <hi>living martyrdome. Caro ante hominem su<g ref="char:EOLhyphen"/>um praemortua;</hi> as <hi>Tertullian</hi>
+                     <note n="n" place="margin">Tertullian.</note>, neatly, and highly: <hi>to kill the flesh, and leave the man alive.</hi> which in plainer termes, is expressed by the devout<note n="o" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>In Scala. Paradisi Schol.</hi> 7. <hi>p.</hi> 27.</note>, <hi>Climachus, He that is mortified in his soule, lives not according to the sense and fee<g ref="char:EOLhyphen"/>ling of this present world. Alive to God, but dead unto the world</hi> as the Apostle expresses it most fully. When the man <hi>liveth</hi> not, <hi>but Christ in him:</hi> as the Apostle, other<g ref="char:EOLhyphen"/>where.</p>
+                  <p>So, then, the great <hi>End</hi> of <hi>Mortification</hi> is; to <hi>represse</hi> corrupt nature, to <hi>restraine</hi> lawlesse actions; to <hi>controll</hi> ranke affections, and masterly passions in us. Which yet for all its <hi>Law,</hi> and <hi>Custome pleading:</hi> is in a good de<g ref="char:EOLhyphen"/>gree
+<pb n="9" facs="tcp:20188:9"/>
+                     <hi>faisable.</hi> for whatsoever <hi>wrastlings with flesh and blood</hi>
+                     <note n="p" place="margin">Eph. 6. 12.</note>, wee at first be put to <hi>collar</hi> with: <hi>Sinne,</hi> at last, like the <hi>Giant Antaeus,</hi> will put it selfe out of breath with strugling: if our <hi>Hercules</hi> lets it not touch the earth too often.</p>
+                  <p>Take <hi>Origens</hi>
+                     <note n="q" place="margin">Origen.</note> experience, for your encouragement. <hi>Ab initio mortificationis nostrae, peccatum languescit; in pro<g ref="char:EOLhyphen"/>gressu, tabescit. in the beginning of the conflict, corruption growes sicke of it: and by our pressing and pursuing, it pines away it selfe into a consumption.</hi> The possibilitie hereof, was handsomely insinuated by an experienced <hi>Mortifier,</hi> unto a young <hi>practitioner:</hi> in a <hi>parable</hi> of a <hi>Husbandman</hi> sending his sonne to <hi>weede</hi> his <hi>garden plot:</hi> which the youth despairing to cleere, of all those thistles; even layd himselfe downe a sleeping. <hi>Sonne, Sonne,</hi> said the old man: <hi>doe but weed so much ground in a day, as thou hast co<g ref="char:EOLhyphen"/>vered with thy lazing body; and in few daies thou shalt bee able to overcome it</hi>
+                     <note n="b" place="margin">
+                        <hi>Vide vitas Patrum. l.</hi> 5. <hi>libello.</hi> 7. <hi>n.</hi> 40. <hi>p.</hi> 590. <hi>apud Roseweyd.</hi>
+                     </note>. The thing is <hi>faisable</hi> in a good de<g ref="char:EOLhyphen"/>gree, to a man resolved upon these two things. First, to <hi>disregard, the ease and pleasing of his body:</hi> and secondly, <hi>to disesteeme the vaine glory of the world</hi>
+                     <note n="c" place="margin">So <hi>Pimenius in vitis. P P. l.</hi> 7. <hi>c.</hi> 26. <hi>n.</hi> 2. <hi>p.</hi> 678. <hi>apud. Rosweydum.</hi>
+                     </note>.</p>
+                  <p>Lest you should, after all this, beguile your selves with a vaine presumption; That a <hi>Regenerate</hi> man needs not put his body, to this same severe course of <hi>morti<g ref="char:EOLhyphen"/>fying;</hi> for that <hi>Faith</hi> will be all in all to him: loe! the <hi>Colossians</hi> were <hi>risen againe;</hi> and yet the Apostle bids them <hi>mortifie.</hi> yea, and <hi>Therefore mortifie:</hi> because they were <hi>risen.</hi> Or if you should afterwards imagine, that having once reduced <hi>corruption</hi> to indifferent termes of <hi>obedience</hi> in you (which every man here, perhaps cannot plead) that you had then done <hi>mortifying.</hi> Oh no! Saint <hi>Chrysostome</hi>
+                     <note n="d" place="margin">Chrysost.</note>, compares a man to a <hi>Picture,</hi> and to a
+<pb n="10" facs="tcp:20188:10"/>
+                     <hi>Corslet:</hi> which though made <hi>cleane</hi> to day, will yet con<g ref="char:EOLhyphen"/>tract <hi>dust</hi> and <hi>rust</hi> againe, by to morrow. Your <hi>Corne</hi> will come up with <hi>chaffe</hi> and <hi>weeds:</hi> though sowne ne<g ref="char:EOLhyphen"/>ver so cleane. The <hi>Serpent</hi> seeming dead all the winter: upon the first Clapp of <hi>Thunder,</hi> will start up againe<note n="e" place="margin">Nazianzen.</note>. The <hi>Sow</hi> may have <hi>wash'd</hi> her hide: but as long as her <hi>swinish nature</hi> remaines, shee'l to the myre againe<note n="f" place="margin">2 Pet. 2. 22.</note>. So notwithstanding <hi>Sinne</hi> were once <hi>washed</hi> away, by <hi>Bap<g ref="char:EOLhyphen"/>tisme;</hi> or the <hi>Sinner,</hi> upon Repentance, oft-times <hi>absol<g ref="char:EOLhyphen"/>ved</hi> by <hi>God,</hi> or by the <hi>Church:</hi> yet so long as the <hi>Fomes,</hi> his <hi>corrupt inclinations</hi> remaine; they may againe indan<g ref="char:EOLhyphen"/>ger to <hi>un-mortifie</hi> him. Yea, though there be but a very <hi>little Corruption</hi> remaining in him: a <hi>Sinne</hi> not so big as <hi>Sodome,</hi> but as <hi>Zoar. is it not a little one?</hi> yet Sinnes <hi>fowle</hi> will make shift to <hi>live</hi> by it<note n="g" place="margin">Gen. 19. 20.</note>.</p>
+                  <p>Especially, there being a <hi>Tempter</hi> living: that: hath both the <hi>Art</hi> and the <hi>Malice,</hi> to revive; to re-enforce, and multiply the <hi>corruption.</hi> Twas a grave answer which <hi>Palladius</hi>
+                     <note n="h" place="margin">In Histor: Lausiaca.</note> tells us, was given by an old experienced <hi>Her<g ref="char:EOLhyphen"/>mite,</hi> to a young <hi>Practitioner</hi> in <hi>mortification.</hi> who percei<g ref="char:EOLhyphen"/>ving after some <hi>hardships</hi> and <hi>tamings</hi> of his body; <hi>lust</hi> now already <hi>weakned:</hi> thankt God <hi>twas now dead in him. Stay, young man</hi> (said the old beaten souldier) <hi>stay! The devill is not yet dead.</hi> On my word, though an <hi>inclina<g ref="char:EOLhyphen"/>tion</hi> to this or that sinne; may for the time seeme <hi>dead:</hi> yet as long as the <hi>divel</hi> is <hi>alive,</hi> he is able <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, to <hi>stirre up his</hi> owne ungracious <hi>gift againe in us, by the putting on of his hands</hi>
+                     <note n="i" place="margin">2 Tim. 1. 6.</note>. even to blow the <hi>smoking flaxe</hi>
+                     <note n="k" place="margin">Matth. 12. 20.</note>, up into a skarre-fire. <hi>Mortifie often,</hi> therefore; and <hi>daily.</hi> And this, is the first <hi>End of mortification:</hi> to stay our further provocation of <hi>Gods Anger:</hi> even by <hi>mortifying</hi> of those <hi>Sinnes,</hi> which procure it.</p>
+               </div>
+               <div n="2" type="end_of_mortification">
+                  <pb n="11" facs="tcp:20188:10"/>
+                  <head>The second <hi>End</hi> of <hi>Mortification.</hi> To put our selves into a hopefull way, of pro<g ref="char:EOLhyphen"/>curing <hi>Gods favour.</hi>
+                  </head>
+                  <p>And there are but two waies, for us to doe this. The <hi>first,</hi> by rendring our selves <hi>conformable</hi> unto <hi>Christ</hi> in his <hi>Sufferings;</hi> by which God was <hi>well pleased</hi>
+                     <note n="l" place="margin">Matt. 3. 17.</note>. And <hi>secondly,</hi> by preparing and fitting of our Bodies, to be<g ref="char:EOLhyphen"/>come a <hi>Sacrifice:</hi> after which, God used to bee appea<g ref="char:EOLhyphen"/>sed<note n="m" place="margin">Gen. 8. 21.</note>. And <hi>mortification</hi> does both these, admirably.</p>
+                  <div n="1" type="means_of_procuring_Gods_favor">
+                     <head>1. <hi>Mortification</hi> conformes us to <hi>Christs sufferings.</hi>
+                     </head>
+                     <p>And that most lively. <hi>Christus crucifixus, est Idea mor<g ref="char:EOLhyphen"/>tificationis nostrae,</hi> said the holy <hi>Climachus</hi>
+                        <note n="n" place="margin">Climachus.</note>. <hi>Christ cru<g ref="char:EOLhyphen"/>cified, is the perfect paterne of our mortification.</hi> Whereupon it must needs follow, by <hi>conversion,</hi> That, <hi>A man mor<g ref="char:EOLhyphen"/>tified, is the figure of Christ crucified.</hi> We are called to par<g ref="char:EOLhyphen"/>take with <hi>Christ,</hi> in the <hi>likenes of his death</hi>
+                        <note n="o" place="margin">Rom. 6. 5, 6.</note>: and we must answer him in his <hi>sufferings. I beare in my body, the marks of the Lord Iesus,</hi> said our mortified Apostle<note n="p" place="margin">Gal. 6. 17.</note>. Which were not the <hi>markes</hi> only of the <hi>whips;</hi> or the teeth of the <hi>beasts foughten</hi> withall <hi>at Ephesus</hi>
+                        <note n="q" place="margin">1 Cor. 15. 32.</note>, in <hi>Christs</hi> quarrell: but as S<seg rend="sup">t</seg>. <hi>Hierome</hi> interprets it<note n="r" place="margin">
+                           <hi>Hierome in Gal.</hi> 6.</note>, even the <hi>mortifying,</hi> and the <hi>afflicting</hi> of his body, by <hi>hungring,</hi> and by <hi>thirsting;</hi> by <hi>watching,</hi> and by <hi>labouring:</hi> yea by <hi>crucifying of him<g ref="char:EOLhyphen"/>selfe unto the world</hi>
+                        <note n="s" place="margin">Gal. 6. 14.</note>; in imitation of his <hi>Saviour.</hi>
+                     </p>
+                     <p>Suppose, now, thou shouldst see <hi>Christ crucified,</hi> ap<g ref="char:EOLhyphen"/>pearing to thee: as Saint <hi>Chrysostome</hi>
+                        <note n="t" place="margin">
+                           <hi>To.</hi> 5. <hi>de Basi<g ref="char:EOLhyphen"/>licis non tra<g ref="char:EOLhyphen"/>dend. pag.</hi> 100.</note> sayes Saint <hi>Peter</hi> flying from his martyrdome, sometimes did, at <hi>Rome</hi> gates. Suppose, I say, thou shouldest thus see him, <hi>ba<g ref="char:EOLhyphen"/>ring</hi> his <hi>martyred body</hi> to thee: would it not <hi>startle,</hi> and affright thee? Which yet would more <hi>amaze</hi> thee, to be in great earnest demanded, <hi>How hast thou conformed to me?</hi> See! my <hi>head</hi> crownd with <hi>thornes;</hi> thine with <hi>bever.</hi> mine <hi>bowed</hi> downe: and thine <hi>advanced</hi> upon a
+<pb n="12" facs="tcp:20188:11"/> stiffe necke; ever ambitious to be <hi>put formost.</hi> My body <hi>pined:</hi> and thine <hi>pampered.</hi> my hands <hi>clou'd</hi> with iron: thine with <hi>gold.</hi> mine <hi>eyes</hi> sunke with <hi>leanenesse:</hi> thine strutting out with <hi>fatnesse.</hi> My body in a <hi>winding-sheete:</hi> thine in <hi>fine linnen,</hi> in <hi>silkes</hi> and <hi>Scarlet.</hi> God knowes his <hi>Sonne,</hi> by the characters of his <hi>Sufferings:</hi> to which the <hi>carnall worldling</hi> being so farre unlike: no marvaile if God, another day, say to him, <hi>Depart from mee, I know you not</hi>
+                        <note n="t" place="margin">Mat. 7. 23.</note>. Learne, then, to <hi>mortifie.</hi> the <hi>liker</hi> wee bee unto our <hi>Saviour:</hi> the <hi>fitter</hi> will his <hi>roabe of Righteousnesse</hi> sit upon us. Yea, the <hi>likenesse</hi> will even inveigle our indul<g ref="char:EOLhyphen"/>gent <hi>Father:</hi> to cast the more gracious eye towards us. But till then, how should hee be well pleased to<g ref="char:EOLhyphen"/>wards us?</p>
+                  </div>
+                  <div n="2" type="means_of_procuring_Gods_favor">
+                     <head>Second Meanes of <hi>procuring</hi> Gods favour:</head>
+                     <p>By fitting our <hi>bodies,</hi> to become a <hi>Sacrifice</hi> to him.</p>
+                     <p>No man must <hi>appeare before the Lord, empty</hi>
+                        <note n="u" place="margin">Exod. 23. 15.</note>. So that a <hi>Sacrifice</hi> we must bring with us. Nor must it be a <hi>mock-sacrifice.</hi> such as the <hi>Africans</hi> made their <hi>Saturne</hi> rest con<g ref="char:EOLhyphen"/>tented withall: by, a <hi>criticall</hi> misconstruction of his com<g ref="char:EOLhyphen"/>mandement. <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. <hi>Send heads to Saturnes Altars and men unto the Father.</hi> In which <hi>verse,</hi> because <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> signified <hi>Heads,</hi> in generall; they gave him <hi>onyon-heads.</hi> and because <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> signified not onely <hi>a man,</hi> but <hi>Lights</hi> too: they set him up <hi>candles-ends,</hi> to see his <hi>onyons</hi> by. Our <hi>Sacrifice,</hi> must be a <hi>reall</hi> one: of <hi>men</hi> and <hi>heads,</hi> too, Yet need wee not, as the <hi>Legend</hi>
+                        <note n="x" place="margin">Dionisij Areo<g ref="char:EOLhyphen"/>pagitae vita.</note> tells of Saint <hi>Denys:</hi> who tooke up his owne <hi>cut-off</hi> head in his hand; and carryed it to the place, where now is his owne <hi>Altar.</hi> for ours, must bee a <hi>living Sacrifice</hi>
+                        <note n="y" place="margin">Rom. 12. 1.</note>. Our lusts crucified: but our <hi>Bodies</hi> preserved for Gods service.</p>
+                     <p>Now that wee may avoyd that <hi>unhappinesse,</hi> in the <hi>Comick</hi>
+                        <note n="z" place="margin">
+                           <hi>P<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>autus in Poen. Act.</hi> 2. <hi>Sc.</hi> 1.</note>: <hi>Vt sacrificem semper, nec unquam litem, Alwayes</hi>
+                        <pb n="13" facs="tcp:20188:11"/>
+                        <hi>be offering sacrifices, yet never appease the Dietie:</hi> know we the <hi>Godhead</hi> onely to be appeased, with the <hi>Sacrifices</hi> of his owne appointing. Let these three <hi>Conditions,</hi> there<g ref="char:EOLhyphen"/>fore, qualifie our <hi>Sacrifices:</hi> which used to commend the <hi>Ancients.</hi> Whereof <hi>one</hi> to bee in the <hi>Matter:</hi> the <hi>se<g ref="char:EOLhyphen"/>cond,</hi> in the <hi>Forme:</hi> and the <hi>last,</hi> in the <hi>Solemnites</hi> of the <hi>Offering.</hi>
+                     </p>
+                     <div n="1" type="condition_of_sacrifice">
+                        <head>1. <hi>Condition</hi> of our <hi>Sacrifice:</hi> In the choyce of the <hi>Matter</hi> or <hi>Thing</hi> to bee <hi>sacrificed.</hi>
+                        </head>
+                        <p>That it be some <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, the <hi>best of the Spoyles</hi> taken in <hi>warres,</hi> or recovered from the <hi>enemy</hi>
+                           <note n="a" place="margin">Heb. 7. 4.</note>. Thats one of the ancientest kind of <hi>Sacrifices:</hi> take it either of <hi>Victima,</hi> or of <hi>Hostia</hi>
+                           <note n="b" place="margin">
+                              <hi>Ovid. Fast.</hi> 1.</note>.</p>
+                        <q>
+                           <l>Victima, quae dextrâ cecidit victrice, vocatur:</l>
+                           <l>Hostibus à caesis, Hostia nomen habet.</l>
+                        </q>
+                        <p>The ancient name of a <hi>Sacrifice,</hi> was derived either from <hi>victory,</hi> or from <hi>enemies.</hi> Let the <hi>matter</hi> of our <hi>Sa<g ref="char:EOLhyphen"/>crifices,</hi> then; be those <hi>Lusts that warre in our members</hi>
+                           <note n="c" place="margin">Rom. 7. 23.</note>. that <hi>Law</hi> of <hi>unregeneration,</hi> which still <hi>rebells</hi> in us<note n="d" place="margin">Iames 4 1. Iames 4. 4.</note>. that same <hi>friendship of the world</hi>
+                           <note n="e" place="margin">Rom. 8. 7.</note>: and that same <hi>carnall minde</hi>
+                           <seg rend="sup">f</seg>: both which are <hi>Enmity with God.</hi> Needs must He take it better, to have the <hi>spoyles</hi> of <hi>his owne,</hi> and of his <hi>childrens enemies:</hi> to be sacrificed up unto him. When the <hi>heads</hi> of these <hi>Sonnes of Saul</hi> (which procure the <hi>plague) are hanged up unto the Lord:</hi> then will he be ap<g ref="char:EOLhyphen"/>peased<note n="g" place="margin">2 Sam. 21. 6.</note> And not till then.</p>
+                     </div>
+                     <div n="2" type="condition_of_sacrifice">
+                        <head>2. <hi>Condition:</hi> in the <hi>Forme.</hi>
+                        </head>
+                        <p>That there be <hi>Physica mutatio,</hi> a <hi>Change</hi> made in the <hi>Nature,</hi> of the <hi>Thing sacrificed:</hi> without which, the <hi>Schoolemen</hi> allow of no <hi>Sacrifice.</hi> Such a <hi>change,</hi> must there be in our <hi>Corruptions.</hi> The <hi>Lustfull</hi> must become
+<pb n="14" facs="tcp:20188:12"/>
+                           <hi>Chaste:</hi> the <hi>Proud, Humble:</hi> the <hi>Intemperate, Sober:</hi> and the <hi>Covetous,</hi> become <hi>Liberall.</hi>
+                        </p>
+                        <p>And this <hi>Condition,</hi> will also be a <hi>Tryall</hi> to thee: to discerne how <hi>forward</hi> thou art in thy <hi>Sacrifice:</hi> how <hi>sound</hi> and <hi>sincere</hi> it is: yea, and how well it is <hi>accepted.</hi>
+                        </p>
+                        <p>We know the <hi>Sunne</hi> shines in <hi>heaven,</hi> when we see the show of it upon the <hi>earth:</hi> so by the <hi>degree</hi> of the <hi>Sa<g ref="char:EOLhyphen"/>crifices</hi> pleasing our owne <hi>Consciences</hi> and <hi>Vnderstandings;</hi> we collect how farre forth the <hi>Diety</hi> is appeased. So that all this, shalt thou find, by the <hi>degree</hi> and <hi>manner</hi> of <hi>Change;</hi> already made within thee.</p>
+                     </div>
+                     <div n="3" type="condition_of_sacrifice">
+                        <head>3. <hi>Condition:</hi> in the <hi>Solemnities</hi> of the Offering.</head>
+                        <p>As <hi>first,</hi> That it be not made like that of <hi>Nadab</hi> and <hi>Abihu,</hi> with <hi>strange fire</hi>
+                           <note n="h" place="margin">Levit. 10. 1.</note>: but that like <hi>Abraham,</hi> wee carry our owne fire with us<note n="i" place="margin">Gen. 22. 6.</note>. Whats this, but a <hi>zeale ac<g ref="char:EOLhyphen"/>cording unto knowledge</hi>
+                           <note n="k" place="margin">Rom. 10. 2.</note>?</p>
+                        <p>
+                           <hi>Secondly,</hi> that we <hi>bind the Sacrifice with coards, yea even unto the hornes of the Altar</hi>
+                           <note n="l" place="margin">Psal. 118. 27.</note> Without we <hi>tye</hi> our <hi>bodies</hi> to it, with a firmenesse of resolution: they will <hi>start</hi> at the first <hi>hardship</hi> of <hi>Mortification,</hi> and will never abide by it. We must <hi>oblige</hi> and tye our selves, therefore, to some certaine <hi>Rules,</hi> and <hi>wayes,</hi> and <hi>Times</hi> of <hi>Mortification</hi> (as<note n="m" place="margin">
+                              <hi>S</hi>
+                              <seg rend="sup">t</seg>. <hi>Basilius, in Regulis.</hi> And see the Rule of <hi>Pachomius:</hi> at the latter end of <hi>Cassian,</hi> and in <hi>Palladius.</hi>
+                           </note> Saint <hi>Basil, Pachomius,</hi> and other <hi>Ancients</hi> did their <hi>Dis<g ref="char:EOLhyphen"/>ciples:</hi> or else we will not long continue constant, to our <hi>mortifying.</hi>
+                        </p>
+                        <p>
+                           <hi>Thirdly,</hi> We finde in the <hi>Sacrifice</hi> of the <hi>Scape-goat</hi>
+                           <note n="n" place="margin">Levit. 16. 21.</note>, and some others: that the <hi>Offerer</hi> laying his <hi>hands upon the head</hi> of it; made <hi>confession</hi> of those Sinnes, for the <hi>expiating</hi> whereof, he now offered it. subjoyning a <hi>prayer</hi> withall, unto God, for his <hi>acceptance</hi> and his <hi>pardon.</hi> The <hi>Rabbins</hi> say<note n="o" place="margin">See <hi>Marius in Leviticum. c.</hi> 5. <hi>n. XVI.</hi>
+                           </note>, that the <hi>Sacrifice</hi> were worth nothing, without <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                           <hi>Tescuba ve-jiddin; Repentance and</hi>
+                           <pb n="15" facs="tcp:20188:12"/>
+                           <hi>Confession.</hi> The <hi>Light</hi> of <hi>Nature,</hi> also, dictated thus much unto some <hi>Gentiles</hi>
+                           <note n="p" place="margin">
+                              <hi>Alexander ab Alexand. lib.</hi> 4. <hi>cap.</hi> 17.</note>: who <hi>repented</hi> and <hi>confessed;</hi> before their <hi>Sacrifice:</hi> looking <hi>bashfully</hi> downe upon the ground. Expressely is <hi>Confession</hi> enjoyned before a <hi>Sacrifice</hi>
+                           <note n="q" place="margin">Numb. 5. 7.</note>: The <hi>Iewes</hi> forme of <hi>Confession,</hi> was an honest plaine one. <hi>I beseech thee of thy mercy, ô Lord; I have sinned; I have done wickedly; I have gone astray, behold it repenteth me; I am ashamed, and I will no more doe it</hi>
+                           <note n="r" place="margin">See <hi>Marius</hi> in the place fore-quoted.</note>.</p>
+                        <p>And thus in our <hi>Sacrifices,</hi> ought we to doe. <hi>Bodily ex<g ref="char:EOLhyphen"/>ercise profiteth little</hi>
+                           <note n="s" place="margin">1 Tim. 4 8.</note>, sayth our experienced <hi>Apostle.</hi> That is, These same <hi>practisings</hi> to tame our bodies, by <hi>absti<g ref="char:EOLhyphen"/>nence, watching, labouring, continency;</hi> and the like; (from which the <hi>professed Mortifyers</hi> among the <hi>Primitives,</hi> were called <hi>Asceticks;</hi> that is, <hi>Exercisers</hi>
+                           <note n="t" place="margin">See <hi>Athanas. in vita An<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>en<gap reason="illegible" resp="#murp" extent="2 letters">
+                                    <desc>••</desc>
+                                 </gap>. S<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>. Hierome, in Nahum. cap.</hi> 2. <hi>Palladius in Histor. Lausiaca ubique. Theodo<g ref="char:EOLunhyphen"/>ret in Sancti<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>▪ ubique.</hi>
+                           </note>) none of these <hi>Mortifications</hi> singly by themselves, nor altogether; doe little advance towards <hi>Godlinesse,</hi> or towards <hi>Holinesse.</hi> Nay, nor to <hi>taming</hi> of <hi>lust,</hi> neither: except enlivened with <hi>Prayer,</hi> with <hi>Repentance;</hi> with <hi>Confession</hi> and <hi>A<g ref="char:EOLhyphen"/>mendment.</hi> The <hi>Iewish Essens</hi> were wonderfull strict <hi>mor<g ref="char:EOLhyphen"/>tifyers:</hi> as we learne by <hi>Philo</hi> and <hi>Eusebius</hi>
+                           <note n="u" place="margin">
+                              <hi>Philo. lib.</hi>
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>. <hi>Euseb. Hist. l.</hi> 2. <hi>c.</hi> 16.</note>. They, by the <hi>Diogenes's</hi> or <hi>Cynick</hi> Philosophers, were very much imitated. The <hi>Circumcellian Hereticks</hi> in <hi>Optatus</hi> and S<seg rend="sup">t</seg>. <hi>Augustine</hi>
+                           <note n="x" place="margin">
+                              <hi>Optat. Milevit. lib.</hi> 3. <hi>August. in Psal.</hi> 132.</note>: and <hi>Mithra's Souldiers</hi> or <hi>Votaries,</hi> mentio<g ref="char:EOLhyphen"/>ned by <hi>Iustin Martyr</hi> and <hi>Tertullian</hi>
+                           <note n="y" place="margin">Justin. in Dia<g ref="char:EOLhyphen"/>log. Tertull. de Coron. c. ult.</note>, were inimitably prodigious in their <hi>hardships:</hi> as having by practise so enured their bodies, as to goe <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>thorow fire and frost; and to endure fortie severall kinds of torments.</hi> Yet could none of all these <hi>Exercisers,</hi> make any thing of it. The <hi>Cynicks</hi> were but esteem'd <hi>Impostors,</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap> in Saint <hi>Hierome</hi>
+                           <note n="z" place="margin">Hieron. in Epist.</note>. Yea and branded by him for abomina<g ref="char:EOLhyphen"/>ble <hi>Lusts</hi>
+                           <note n="a" place="margin">
+                              <hi>Hierom. To.</hi> 6. <hi>in Epist. ad E<g ref="char:EOLhyphen"/>phes. c.</hi> 5.</note>. The <hi>Essens,</hi> are but put among the <hi>Hereticks,</hi> or <hi>Halfe-Christians,</hi> by <hi>Epiphanius</hi>
+                           <note n="b" place="margin">
+                              <hi>Haeresi.</hi> 29.</note>, <hi>Touch not, Taste not, Handle not: were the Essens dogmata.</hi> For the <hi>Rules</hi>
+                           <pb n="16" facs="tcp:20188:13"/> in this part of that <hi>Chapter,</hi> does the learned <hi>Scaliger</hi> in<g ref="char:EOLhyphen"/>terpret of the <hi>Essens</hi>
+                           <note n="c" place="margin">
+                              <hi>Elencho Tri<g ref="char:EOLhyphen"/>haeres. c.</hi> 27. <hi>p.</hi> 213.</note>. Saint <hi>Paul</hi> sayes they <hi>held not the head,</hi> which is <hi>Christ,</hi> but were <hi>vainly puft up</hi> with their <hi>fleshly minds</hi>
+                           <note n="d" place="margin">Coloss. 2▪ 18, 19.</note>. The <hi>Circumcellian</hi> Hereticks, were the very <hi>Gipsies</hi> of Religion<note n="e" place="margin">
+                              <hi>Isidor<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>▪ de offic. lib.</hi> 2. <hi>cap.</hi> 16.</note>. Of no higher <hi>Forme</hi> in Christs <hi>Schoole,</hi> were the Order of <hi>Whipping Fryers;</hi> by Wise men placed. <hi>Bedles</hi> and <hi>Bedlams,</hi> verily: who with <hi>whips</hi> and <hi>spurre rowels,</hi> oftentimes: tare their flesh from the very bones, with their mercilesse <hi>disciplining.</hi> Yea so inhumane were they; that after a few lashes, they did not so much <hi>affligere corpora,</hi> as <hi>vulnera,</hi> not torture their <hi>bodies,</hi> but their <hi>wounds:</hi> as Saint <hi>Cyprians</hi> phrase is<note n="f" place="margin">Cyprian, in Epist.</note>; of the Heathens torturing of the <hi>Martyrs.</hi> Such have the <hi>Papists,</hi> now adayes, in <hi>Italy;</hi> to adorne and gayifie their <hi>Processions.</hi> To such a one, the Boyes in admyring and applauding manner will cry, <hi>O te beato, ô te felice, ô bles<g ref="char:EOLhyphen"/>sed, ô happy thou.</hi> and thats all, I know, he hath for it: ex<g ref="char:EOLhyphen"/>cepting the poore hyre, given the wretch by the <hi>Fryers,</hi> for his good service. For <hi>who hath required these things at your hands</hi>
+                           <note n="g" place="margin">Esay 1. 12.</note>. Such <hi>barbarismes,</hi> surely, can no more appease God, then <hi>Baals priests</hi> could; by cutting them<g ref="char:EOLhyphen"/>selves with <hi>rasors</hi> and with <hi>lances</hi>
+                           <note n="h" place="margin">1 King. 18. 28.</note>. If it be an act of <hi>de<g ref="char:EOLhyphen"/>votion,</hi> why then is it acted in a <hi>Procession?</hi> which, mee thinks, does but adde <hi>ostentation</hi> to the <hi>cruelty.</hi> Those, surely, were the wiser; that in such like <hi>Popish Processions;</hi> whipt their bare shoulders with <hi>yarne dipt in blood:</hi> which made as good a show, as <hi>coppar lace</hi> does at a <hi>maske</hi> by <hi>torch-light.</hi> For the other <hi>Whippers,</hi> I no more admire them, but thinke as easily they may be hyred: as <hi>souldiers</hi> may, for a <hi>Dollar</hi> and a <hi>Dozen of Beere;</hi> in a towne of <hi>gar<g ref="char:EOLhyphen"/>rison:</hi> to take the <hi>Strappado</hi> for one another.</p>
+                        <p>Well! the <hi>Law</hi> is, That <hi>Butchers may not be of a Iury.</hi> We may not take these mens <hi>verdicts,</hi> how we ought to
+<pb n="17" facs="tcp:20188:13"/>
+                           <hi>mortifie.</hi> These same <hi>Flagellatores</hi> or <hi>Whipping Fryers:</hi> brake into the <hi>Romane Church,</hi> not full 400 yeares agoe: just with those other <hi>Whipsters,</hi> the <hi>Schoolemen</hi>
+                           <note n="i" place="margin">See <hi>Helvici Chronolog. Ann.</hi> 1261.</note>. Now the <hi>Apostles</hi> and the <hi>Primitive Fathers,</hi> knew how to <hi>mor<g ref="char:EOLhyphen"/>tifie;</hi> before <hi>they</hi> were borne. Severall Religions have afforded as great <hi>severities;</hi> as this of the present <hi>Roman.</hi> As those of the <hi>Baalites,</hi> and <hi>Mithra's votaries;</hi> before spoken of. And for <hi>Abstemiousnesse,</hi> of all sorts; <hi>Clemens Alexandrinus</hi>
+                           <note n="k" place="margin">
+                              <hi>Stromatum. lib.</hi> 3.</note> tels us of <hi>Angell and Divell-worshippers:</hi> that were very <hi>carefull in forbearing Wine, Flesh-meates,</hi> and <hi>Venery:</hi> So that all is nothing, except <hi>Truth</hi> of <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> goes with it. Most rightly sayd S<seg rend="sup">t</seg>. <hi>Hierome,</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                           <hi>plurimum praestat, &amp; vitae continentia, super mortificatione lumborum: tamen nihil ita mortificat, ut cognitio veritatis</hi>
+                           <note n="l" place="margin">
+                              <hi>Hierom. in Nahum. c.</hi> 2. <hi>p.</hi> 175.</note>. <hi>Exercise, and continency of living, helpe very much, indeed; towards mortifying of the reynes: but yet nothing mortifies so much, as the knowledge of the truth. Sanctifie them through thy truth</hi>
+                           <note n="m" place="margin">Ioh. 17. 17.</note>. So our blessed <hi>Saviour</hi> prayed for his <hi>Disci<g ref="char:EOLhyphen"/>ples:</hi> for that must give <hi>perfection,</hi> to the <hi>mortifying.</hi>
+                        </p>
+                        <p>
+                           <hi>Every thing is sanctified by the word of God, and by pray<g ref="char:EOLhyphen"/>er:</hi> sayd our <hi>Apostle</hi>
+                           <note n="n" place="margin">h 1 Tim. 4. 5.</note>. And so are discreet <hi>mortifyings,</hi> by <hi>Prayer</hi> and <hi>Confession.</hi> These will not quell <hi>lust</hi> alone, without <hi>mortifyings:</hi> nor those be directed without the <hi>word,</hi> and the holy examples of good men in it. no nor be <hi>sanctified,</hi> without <hi>Prayer</hi> obtaines a <hi>blessing</hi> for it: and that <hi>Confession</hi> discharges the <hi>Conscience</hi> of the <hi>Sinner,</hi> as well as <hi>hardship</hi> keepes downe the <hi>corruption</hi> of the <hi>body.</hi> Tis <hi>a mixt action,</hi> therefore: for this <hi>Salt</hi> and <hi>Oyle;</hi> must be added to our <hi>Sacrifice.</hi> The <hi>Primitive Fathers,</hi> for this reason; conjoyned <hi>Exhomologeses,</hi> or <hi>Confessions,</hi> to their <hi>Stationes</hi>
+                           <note n="o" place="margin">Stations, are Fasts: saith S<seg rend="sup">t</seg>. <hi>Ambrose. Serm.</hi> 36.</note>, or solemne <hi>fastings. Irenaeus</hi>
+                           <note n="p" place="margin">
+                              <hi>Iren. lib.</hi> 4. <hi>c.</hi> 45.</note> tels us, they learn'd this <hi>Discipline</hi> from <hi>David:</hi> who after his two great <hi>sinnes, made his</hi> (51) <hi>Psalme of Confession.</hi> Yea their
+<pb n="18" facs="tcp:20188:14"/> private <hi>Fasts,</hi> they held in a <hi>Church:</hi> as wee learne by <hi>Tertullian</hi>
+                           <note n="q" place="margin">Lib. ad Mar<g ref="char:EOLhyphen"/>tyras. c. ult.</note>. there stood they praying all day long, say many <hi>Fathers.</hi> But of this, more afterwards<note n="r" place="margin">When wee speake of <hi>ex<g ref="char:EOLhyphen"/>traordinary Mortifications.</hi>
+                           </note>.</p>
+                        <p>And thus if we <hi>present</hi> our <hi>Bodies,</hi> as a <hi>Sacrifice:</hi> mix<g ref="char:EOLhyphen"/>ing <hi>Repentance, Confession, Prayer,</hi> and promises of <hi>A<g ref="char:EOLhyphen"/>mendment;</hi> together with our <hi>Fastings</hi> and our <hi>Mortifica<g ref="char:EOLhyphen"/>tions:</hi> our <hi>Faiths</hi> may comfortably then expect, it will be <hi>holy and acceptable unto God;</hi> because a <hi>reasonable ser<g ref="char:EOLhyphen"/>vice</hi>
+                           <note n="s" place="margin">Rom. 12. 1.</note>. And thus much for the <hi>Why,</hi> or <hi>Ends</hi> of <hi>mortify<g ref="char:EOLhyphen"/>ing.</hi> Come we next unto the <hi>How;</hi> or the <hi>Manner</hi> how to doe it.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <head>2. Part: The <hi>Manner</hi> how to <hi>mortifie.</hi>
+               </head>
+               <p>
+                  <note place="margin">2. <hi>Part.</hi>
+                  </note>A faire <hi>Copy,</hi> very much helps the <hi>fancy</hi> of the young <hi>Writer.</hi> your example, therefore, shall be that of the <hi>Pro<g ref="char:EOLhyphen"/>phets,</hi> the <hi>Apostles,</hi> and the <hi>Primitive Fathers.</hi> These, both learn'd, and taught it; by <hi>experience.</hi> Some of our <hi>New Writers,</hi> handle this <hi>Doctrine,</hi> something <hi>delicately.</hi> One <hi>English Commentator</hi> upon my <hi>Text;</hi> puts it under <hi>Repentance:</hi> and another, under <hi>Regeneration:</hi> and a third <hi>admired</hi> man, (who hath purposely written upon it) de<g ref="char:EOLhyphen"/>fines it to be <hi>a turning of the heart from Sinne to grace.</hi> by which Definition, <hi>Conversion</hi> and <hi>Mortification</hi> are con<g ref="char:EOLhyphen"/>founded. One of his helps to <hi>Mortification,</hi> is to <hi>get a loathing of earthly things.</hi> And the first meanes to get that; is to get a <hi>sound humiliation.</hi> And the <hi>ground</hi> of <hi>humilia<g ref="char:EOLhyphen"/>tion,</hi> he makes a <hi>loathing of Sinne.</hi> and, by and by; <hi>Hu<g ref="char:EOLhyphen"/>miliation consisteth in an abstaining from sinne.</hi> Thus goes he round, as in a <hi>circle;</hi> making the <hi>meanes</hi> to get a <hi>thing,</hi> the same with the <hi>thing</hi> it selfe: yea and as <hi>difficult</hi> to obtaine, as the <hi>thing</hi> which it is made a <hi>Meanes</hi> of. The usuall way for Saint <hi>Markes disciples,</hi> to get <hi>humilitie;</hi> was by <hi>hard labour. Humilitatem cordis, contritione labo<g ref="char:EOLhyphen"/>ris acquirere</hi>
+                  <note n="t" place="margin">
+                     <hi>Cassian de In<g ref="char:EOLhyphen"/>stitut: l.</hi> 1. <hi>c.</hi> 3.</note>. All the other, (God knowes) will but
+<pb n="19" facs="tcp:20188:14"/> make a <hi>speculative</hi> and an ayery <hi>mortification.</hi> Yea tis <hi>mor<g ref="char:EOLhyphen"/>tification</hi> it selfe; that must worke <hi>this mans meanes</hi> and <hi>grounds,</hi> of <hi>mortification.</hi> For if the <hi>speculative</hi> helps, by these men projected; doe ever <hi>kill sinne</hi> in us, being used together with that high <hi>feeding,</hi> soft <hi>cloathing;</hi> and all those other <hi>various delicacies,</hi> which these <hi>Lords of the creatures</hi> challenge the liberty of: then have the <hi>Prophets,</hi> the <hi>Apostles,</hi> and the <hi>Primitives cleansed their hearts in vaine; yea, and in vaine beene chastned every morning</hi>
+                  <note n="u" place="margin">Psal. 73. 12, 13.</note>. Twas a good one of the reverend and solide Bishop <hi>Andrewes.</hi> Whats the reason, (said some) <hi>there is not that gift of continency, now; that was in the Church Primitive?</hi> even <hi>because</hi> (saith he) <hi>there is not that gift of fasting and of mortifying, now: that was in the Church primitive</hi>
+                  <note n="x" place="margin">Ms. On the seventh Commande<g ref="char:EOLhyphen"/>ment.</note>. Tis impossible to finde a <hi>mortified soule;</hi> in an <hi>unmortifi<g ref="char:EOLhyphen"/>ed body:</hi> to have an <hi>humble minde;</hi> together with <hi>proud flesh:</hi> to <hi>hate</hi> the things of the <hi>world;</hi> and yet so busily to <hi>deale</hi> in them: to <hi>loath sinne;</hi> and yet to <hi>love</hi> the <hi>pro<g ref="char:EOLhyphen"/>fit,</hi> or the <hi>honour,</hi> that comes by it.</p>
+               <p>The <hi>Primitive Christians,</hi> (as it full well appeareth, both by their <hi>doctrine</hi> and their <hi>practise)</hi> thought farre o<g ref="char:EOLhyphen"/>therwise of this most necessary <hi>devotion:</hi> and their <hi>Rules</hi> for performing of it; they deduced from the practice of the <hi>Prophets</hi> and <hi>Apostles.</hi> Their <hi>lyings</hi> on the <hi>ground,</hi> in their <hi>prayer</hi> and <hi>fasting;</hi> they had from <hi>David:</hi> who in this posture interceded for his sicke <hi>child</hi>
+                  <note n="a" place="margin">2 Sam. 12. 16.</note>. To goe <hi>bare<g ref="char:EOLhyphen"/>foot;</hi> they received from <hi>Him,</hi> also<note n="b" place="margin">2 Sam. 15. 30</note>: who with his <hi>fol<g ref="char:EOLhyphen"/>lowers</hi> went thus; when he fled from <hi>Absolom.</hi> yea, and from <hi>Esay</hi> too: whom God commanded to goe bare<g ref="char:EOLhyphen"/>foot; which he did at least three yeares together. <hi>Esay</hi> 20. 2, 3. Their <hi>Sackcloath</hi> and <hi>Ashes:</hi> they received from<note n="c" place="margin">Dan. 9. 3, 4.</note>
+                  <hi>Daniel</hi> and the <hi>Ninivites</hi>
+                  <note n="d" place="margin">Ionah 3. 8.</note>. To <hi>tame their bodies,</hi> and <hi>bring them under subjection;</hi> they tooke up from Saint
+<pb n="20" facs="tcp:20188:15"/>
+                  <hi>Paul</hi>
+                  <note n="e" place="margin">1 Cor. 9. 27.</note>. <hi>water drinking,</hi> from Saint <hi>Timothy</hi>
+                  <note n="f" place="margin">1 Tim. 5. 23.</note>. and to live according to a strict <hi>Rule</hi> and <hi>Order;</hi> from Saint <hi>Marke,</hi> and other the <hi>Apostles</hi>
+                  <note n="g" place="margin">
+                     <hi>Cassian. Instit. l.</hi> 2. <hi>c.</hi> 5 <hi>et in Collatione</hi> 18. <hi>cap</hi> 5. <hi>et Epi<g ref="char:EOLhyphen"/>phan: Saepe.</hi>
+                  </note>. What they learned from each of them, <hi>severally;</hi> they gathered into a <hi>forme</hi> of <hi>Morti<g ref="char:EOLhyphen"/>fying:</hi> which is thus described by <hi>Tertullian</hi>
+                  <note n="h" place="margin">
+                     <hi>Tertull. l. de Poenitent. c.</hi> 9.</note>. <hi>Morti<g ref="char:EOLhyphen"/>fication is a Discipline of humbling a man: which enjoynes him such a conversation, as drawes downe mercy from the Almightie.</hi> It <hi>prescribes</hi> (sayes hee) a mans <hi>diet</hi> to bee <hi>thinne;</hi> his <hi>apparrell</hi> to be <hi>course;</hi> and his <hi>lodging, hard.</hi> to nurse up his <hi>prayers,</hi> with frequent <hi>fastings:</hi> to <hi>afflict</hi> his <hi>soule,</hi> with the <hi>remembrance</hi> of his Sinnes, and their punishment. to <hi>mourne,</hi> to <hi>sigh,</hi> to <hi>weepe,</hi> to <hi>watch,</hi> to <hi>pray:</hi> yea, and never to <hi>cease</hi> the importunitie of these <hi>exercises;</hi> till God sayes to him, as to <hi>Elias</hi> in his <hi>fast</hi> in the <hi>Cave: What doest thou here Elias</hi>
+                  <note n="i" place="margin">1 King. 19. 9.</note>?</p>
+               <p>These <hi>Generalls,</hi> I sort out into <hi>Particulars.</hi> namely, into <hi>Mortifications Infused,</hi> by God. Secondly, <hi>Pra<g ref="char:EOLhyphen"/>ctised</hi> upon Mens-selves. Thirdly, <hi>Enjoyned</hi> unto others. First, Mortifications <hi>Inward,</hi> and <hi>Habituall.</hi> Secondly, <hi>Outward</hi> and <hi>Practicall.</hi> Thirdly, <hi>Imposed,</hi> or <hi>Penall.</hi>
+               </p>
+               <div n="1" type="kind_of_mortification">
+                  <head>1. Kind of Mortification: <hi>Inward, Habituall,</hi> or <hi>Infused.</hi>
+                  </head>
+                  <p>This I call that <hi>inward Habite,</hi> infused by the <hi>Holy Spirit</hi> into a mans heart: which converts him. That so generally admired by the <hi>Primitives,</hi> the great Saint <hi>Anthony</hi>
+                     <note n="k" place="margin">Whose name was in most high reputa<g ref="char:EOLhyphen"/>tion among Gods Ser<g ref="char:EOLhyphen"/>vants: sayes S. <hi>Augustine. Confes. lib.</hi> 8. <hi>c.</hi> 6. Yea in so high esteeme, that S <hi>Athanasius</hi> wrote his life.</note>: hearing it read at Church, <hi>Sell all, and give to the poore, and follow me:</hi> apprehending himselfe to bee <hi>personally</hi> spoken unto; presently went and did it<note n="l" place="margin">
+                        <hi>Athanas. in vita S. Anthonij. p.</hi> 452.</note>.</p>
+                  <p>Saint <hi>Augustine</hi> hearing a voyce calling to him, <hi>Take up and read, Take up and read:</hi> and chancing at the first opening of the <hi>Testament,</hi> upon that in <hi>Romans</hi> 13. 13. <hi>Not in rioting and drunkennesse, not in chambering and wan<g ref="char:EOLhyphen"/>tonnesse, not in strife and envying:</hi> renounc'd them all,
+<pb n="21" facs="tcp:20188:15"/> presently<note n="m" place="margin">
+                        <hi>Aug. Confess. l.</hi> 8. <hi>c.</hi> 12.</note>. This is the over-ruling act of Gods ho<g ref="char:EOLhyphen"/>ly <hi>Spirit</hi> working with his <hi>word.</hi> which sometimes, is brought to passe by holy <hi>motions</hi> and <hi>Inspirations:</hi> other-times it is the effect of good <hi>prayers;</hi> good <hi>bookes;</hi> good <hi>Sermons;</hi> or good <hi>examples.</hi> It proceeds not from the man himselfe. tis <hi>not of the will of the flesh, nor of the will of man</hi>
+                     <note n="n" place="margin">Iohn. 1. 13.</note>. but of Gods <hi>grace,</hi> onely. <hi>Qui non solùm suscitat mortuos in peccatis: sed animae affectus concitat, ad desiderium suscitationis, who not onely raiseth up those that are dead in trespasses and sinnes; but stirres up the affections of their soules, strongly to desire to be reised:</hi> sayes the <hi>Schoole man</hi>
+                     <note n="o" place="margin">Gerson.</note>. Tis <hi>Operatio dimanans ab infusa gratiâ: An operation flowing from divine Grace,</hi> sayes a <hi>Father</hi>
+                     <note n="p" place="margin">S. Hilary.</note>. Thus God beginnes the <hi>Mortification:</hi> even by <hi>infu<g ref="char:EOLhyphen"/>sing</hi> a <hi>grace</hi> into us, to <hi>desire,</hi> and to <hi>endeavour</hi> it.</p>
+                  <p>Now this <hi>Infused Grace</hi> workes upon the <hi>Soule</hi> to<g ref="char:EOLhyphen"/>wards <hi>Mortification:</hi> more feelingly, these three wayes.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> First, it brings him into such a <hi>hatred</hi> of <hi>pleasures,</hi> as that it <hi>Armes</hi> him with a firme <hi>Resolution</hi> to resist them.</p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, yet withall it adviseth him, neither to trust to the constancy of his owne <hi>Resolution;</hi> nor to his owne ability to make <hi>resistance.</hi> but gives him caution, to be e<g ref="char:EOLhyphen"/>ver <hi>wary,</hi> in avoyding the <hi>occasions</hi> of <hi>temptation;</hi> from <hi>abroad.</hi>
+                  </p>
+                  <p>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> And, thirdly, That notwithstanding hee diligently endeavours both these; yet having <hi>corruption</hi> and <hi>temp<g ref="char:EOLhyphen"/>tation</hi> enough <hi>within</hi> himselfe: it furnishes him with ho<g ref="char:EOLhyphen"/>ly and <hi>mortifying meditations,</hi> enow; to <hi>clogge</hi> and <hi>keepe downe</hi> those <hi>evill desires,</hi> when they arise in him.</p>
+                  <div n="1" type="way_grace_works_on_the_soul">
+                     <head>1. Way: <hi>Grace</hi> makes a man <hi>Resolve,</hi> not to sinne.</head>
+                     <p>God bends the <hi>heart,</hi> and the whole <hi>Corporation</hi> of the
+<pb n="22" facs="tcp:20188:16"/>
+                        <hi>Affections:</hi> to oppose Sinne. <hi>I am steadfastly purposed,</hi> sayes <hi>David. Whom resist, stedfast in the faith</hi>
+                        <note n="q" place="margin">1 Pet. 5. 9.</note>, bids Saint <hi>Peter.</hi> Grace <hi>mans</hi> up the <hi>Soule,</hi> with that <hi>masculine</hi> and <hi>negative resolution;</hi> which <hi>Chastity</hi> assures it selfe withall: even to deny the <hi>motions</hi> of temptation. which not onely <hi>staves off</hi> the <hi>Tempter;</hi> but enforces him, like a denyed <hi>Wooer,</hi> to goe off <hi>blushing</hi> and <hi>despairing.</hi> Such a holy <hi>obstinacy,</hi> (if any thing) will make the Divell <hi>blush:</hi> would his <hi>complexion</hi> suffer it to be discovered. Yea, such of the <hi>Fathers</hi>
+                        <note n="r" place="margin">As S. <hi>Atha<g ref="char:EOLhyphen"/>nasius,</hi> S. <hi>Hie<g ref="char:EOLhyphen"/>rome. Palla<g ref="char:EOLhyphen"/>dius: Theodoret,</hi> and <hi>Ruffinus.</hi>
+                        </note> as have purposely written the <hi>lives</hi> of the <hi>Primitive Mortifiers:</hi> report, how the <hi>good men</hi> found it by their owne <hi>experience;</hi> and sometimes by the Divells <hi>confession:</hi> that such <hi>impregnable resolu<g ref="char:EOLhyphen"/>tions,</hi> enforced him to reyse his <hi>seiges</hi> of temptation: as being beaten off at that <hi>Out-worke</hi> of <hi>Resolution.</hi> And what else should he doe? The <hi>Divell</hi> is, at least as wise, as a <hi>Dunkirker:</hi> who will never <hi>lay</hi> that shippe <hi>aboard;</hi> where more <hi>blowes,</hi> then <hi>prize,</hi> are to be expected. And, indeed, to see this <hi>Resolution</hi> in a man of <hi>flesh,</hi> cannot but make him ashamed: to remember how easily, and by his owne temptation, himselfe <hi>fell;</hi> that was an <hi>Angel.</hi> And this is one of the first workes of <hi>Grace,</hi> that ten<g ref="char:EOLhyphen"/>deth towards <hi>mortification:</hi> even by a well-fortified <hi>Re<g ref="char:EOLhyphen"/>solution,</hi> to keepe out pleasures; which doe so fowly disturbe our <hi>mortifying.</hi>
+                     </p>
+                  </div>
+                  <div n="2" type="way_grace_works_on_the_soul">
+                     <head>2. Way. <hi>Grace</hi> makes a man <hi>wary</hi> to avoyd the <hi>occasions</hi> of <hi>temptation.</hi>
+                     </head>
+                     <p>For be the <hi>Fort</hi> never so <hi>strong,</hi> or <hi>well man'd:</hi> yet it concernes the <hi>Castellan,</hi> to set strong <hi>guards</hi> about it: and to see the <hi>Rownd</hi> be walkt, continually. Hee must both <hi>watch and pray, that he enter not into Temptation.</hi> Yea, and bee most circumspectly <hi>wary,</hi> over all <hi>occasions.</hi> Even o<g ref="char:EOLhyphen"/>ver all those, which the <hi>time,</hi> the <hi>place,</hi> the <hi>company;</hi> nay,
+<pb n="23" facs="tcp:20188:16"/> and the very <hi>Chances;</hi> might suggest or offer to him. When <hi>Poemen</hi>
+                        <note n="s" place="margin">
+                           <hi>Ruffin. lib.</hi> 3. <hi>n.</hi> 19. <hi>p.</hi> 498.</note> (one of the old <hi>mortifiers)</hi> had beene vi<g ref="char:EOLhyphen"/>sited by the Emperour <hi>Theodosius</hi> in his <hi>Cell:</hi> the good man fearing other Courtiers would doe him that honor, too; removed his <hi>being,</hi> to avoyd <hi>honoring.</hi> for saith he, <hi>I am afraid lest the Divell should deceive me, by making me delight to be honored</hi>
+                        <note n="t" place="margin">Job 31. 1.</note>. Such a man goes abroad, therefore, no more then needs must. Every where, he makes <hi>Iobs covenant with</hi> his <hi>eyes,</hi> that they <hi>looke</hi> not upon a maid. and <hi>Salomons;</hi> not to <hi>looke upon the wine, when it is red</hi>
+                        <note n="u" place="margin">Pro. 23. 31.</note>: and when the <hi>Herodian</hi> dance of it, <hi>moves it selfe aright</hi> in the cuppe. He suspects <hi>temptation</hi> in every thing. The <hi>eye</hi> is the first part, that is <hi>overcome,</hi> in any battell: which is oft times beaten with <hi>Colours;</hi> without further stroke-striking. So <hi>Eves</hi> was, with the very <hi>beauty</hi> of the <hi>apple.</hi> The <hi>eye,</hi> besides, is the vainest of all the <hi>Senses:</hi> it takes extreme delight to be <hi>coozned.</hi> one of the <hi>pleasures</hi> of the <hi>eye;</hi> is the <hi>deceit</hi> of it. How easily, then, is that sence <hi>tempted:</hi> which <hi>delighteth</hi> to be <hi>deceived.</hi> A <hi>wandring</hi> and <hi>ranging eye:</hi> nothing more distracteth <hi>mortification.</hi> He that is <hi>wary</hi> to avoyd the <hi>likelyhoods,</hi> and <hi>suspitions</hi> of <hi>temptation:</hi> must resolve as <hi>Alipius</hi> did<note n="x" place="margin">
+                           <hi>Aug. Confess. l.</hi> 6. <hi>c.</hi> 9.</note>. even to <hi>shut up</hi> his <hi>eyes,</hi> when he comes among <hi>vanities.</hi> So, (sayes he) <hi>shall I be absent, whilest I am present: and at once overcome both the temptation and the tempter. Athanasius</hi>
+                        <note n="y" place="margin">In vita An<g ref="char:EOLhyphen"/>tonij.</note> tells a Story of Saint <hi>Anthony:</hi> who obteyned of God by his prayers, to see what the Divell was a doing. whom hee saw very busie in laying snares, every-where: namely in the <hi>Church,</hi> in the <hi>City,</hi> and in the <hi>house.</hi> so that a man could stirre no where, but presently he let drop a <hi>snare</hi> round about him. There, a <hi>Babylonish garment,</hi> for <hi>A<g ref="char:EOLhyphen"/>chans</hi> pride: a <hi>wedge of gold,</hi> for his covetousnesse<note n="a" place="margin">Iudges 7. 21.</note>: a dainty <hi>Moabitish</hi> damsell, for <hi>Zimries lust</hi>
+                        <note n="b" place="margin">Numb. 25. 6.</note>. <hi>Snares,</hi> for
+<pb n="24" facs="tcp:20188:17"/> all sorts; and every where. This <hi>Secret,</hi> God revealeth to every <hi>mortified Christian:</hi> which makes him as wary, as a <hi>Conjurer:</hi> not to set his foot out of his <hi>circle.</hi> that necessary <hi>Calling</hi> of his; which is Gods <hi>hedge</hi> about him<note n="c" place="margin">Iob 1. 10.</note>.</p>
+                     <p>And in this <hi>Warynesse,</hi> is, the <hi>mortifying man</hi> carefull to watch these two things especially. <hi>First,</hi> his owne <hi>Inclinations;</hi> and thereby, his <hi>easinesse</hi> to be led into some particular Temptations. Secondly, to be well <hi>aware,</hi> of the <hi>wylinesse</hi> of the <hi>Tempter.</hi> Both which, doe much promote <hi>Mortification.</hi>
+                     </p>
+                     <div n="1" type="thing_the_mortifying_man_must_watch">
+                        <head>1. The <hi>mortifying</hi> man, watches his owne <hi>Inclinations.</hi>
+                        </head>
+                        <p>To some kinds of sinnes, a mans <hi>Complexion,</hi> his Age, or his <hi>Education;</hi> secretly may dispose him. <hi>Grace,</hi> there<g ref="char:EOLhyphen"/>fore, bids him be <hi>jealous</hi> and <hi>watchfull,</hi> over his owne selfe. <hi>Keepe me, ô Lord, from mine owne selfe:</hi> was the prayer of a devout <hi>Father</hi>
+                           <note n="d" place="margin">Augustine.</note>. Thus if a man finds him<g ref="char:EOLhyphen"/>selfe prone to <hi>lust;</hi> Gods <hi>Spirit</hi> bids him not come a<g ref="char:EOLhyphen"/>mong <hi>women. They make sore eyes,</hi> said <hi>Alexander</hi>
+                           <note n="e" place="margin">Q. Curtius.</note>. Tis as safe looking against the <hi>Sunne,</hi> as against <hi>beautie. Ex<g ref="char:EOLhyphen"/>cellens sensibile, corrumpit sensorium.</hi> If a man be subject to <hi>drunkennesse,</hi> God bids him avoyd <hi>good fellowes:</hi> whose very company, is the <hi>Toast</hi> and <hi>Rasher</hi> of <hi>intemperancy.</hi>
+                        </p>
+                        <p>Observe, therefore, thine owne <hi>Inclinations</hi> to a sinne: and when thou hast pray'd God, <hi>Not to leade thee into Temptation;</hi> offer not thy selfe to it. Tis <hi>Tertullians</hi> Sto<g ref="char:EOLhyphen"/>ry<note n="f" place="margin">
+                              <hi>De Spectaculis. c.</hi> 26.</note>: how the divell having entred into a <hi>Christian</hi> wo<g ref="char:EOLhyphen"/>man, resolutely by this argument justified his right to her; <hi>Iustissimè (inquit) feci, in meo eam inveni, I did it most justly,</hi> (sayes he) <hi>for I found her in mine owne Purlues:</hi> meaning in a <hi>play-house.</hi> Come not in the <hi>Tempters Walke,</hi> then: he is a dangerous <hi>Ranger.</hi>
+                        </p>
+                        <pb n="25" facs="tcp:20188:17"/>
+                        <p> If thou observest such a Sinne, to have the <hi>Master-spi<g ref="char:EOLhyphen"/>rit</hi> of thee; which thine is not able to resist: keepe thy <hi>distance</hi> with it; and come not within the <hi>Sphere</hi> of its <hi>activitie. Philosophers</hi> observe; that things of a <hi>magneti<g ref="char:EOLhyphen"/>call vertue;</hi> doe secretly attract the strength from that <hi>Body,</hi> which they draw to them. The <hi>Load-stone</hi> drawes not <hi>Iron,</hi> for <hi>love;</hi> but for <hi>food.</hi> that which we call its <hi>vertue;</hi> is, indeed, its <hi>stomacke.</hi> Its <hi>love</hi> is, that rather then be <hi>starved</hi> (which experience shewes it may be) it will <hi>lame</hi> that man by <hi>soaking</hi> of him: which shall continu<g ref="char:EOLhyphen"/>ally weare it in his pocket. Thus that <hi>darling</hi> and <hi>belo<g ref="char:EOLhyphen"/>ved</hi> Sinne, which secretly drawes away thine <hi>inclination</hi> to it; inveigles thee like a <hi>harlot:</hi> with pretences of <hi>love</hi> to thee. her onely intent being, cunningly to draw away thy <hi>Substance,</hi> for her <hi>maintenance.</hi> Tis <hi>fellony</hi> in a <hi>State,</hi> to maintaine the <hi>Enemy.</hi> be true to thy selfe, then. that <hi>Sinne</hi> is to thee the most <hi>dangerous:</hi> which thine owne <hi>Inclination,</hi> most <hi>easily,</hi> or most <hi>frequently</hi> drawes thee to. <hi>Grace</hi> bids thee be wary of it.</p>
+                     </div>
+                     <div n="2" type="thing_the_mortifying_man_must_watch">
+                        <head>2. The <hi>Mortifier</hi> must watch the <hi>Temp<g ref="char:EOLhyphen"/>ters Wylinesse:</hi>
+                        </head>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> And that, aswell in the Act of <hi>Temptation;</hi> when he sets an <hi>Appearance</hi> of <hi>Good,</hi> upon <hi>Evill:</hi> as when after the <hi>committing</hi> and the <hi>discovering</hi> of a <hi>Sinne;</hi> hee casts about how to <hi>lessen,</hi> and to <hi>excuse</hi> it.</p>
+                        <div n="1" type="wiliness">
+                           <head>1. <hi>Wylinesse</hi> of the <hi>Tempters:</hi> to set an <hi>appea<g ref="char:EOLhyphen"/>rance</hi> of <hi>Good,</hi> upon <hi>Evill.</hi>
+                           </head>
+                           <p>He is a great <hi>Masker:</hi> and does all by <hi>Disguises.</hi> He tempts you not to sinne <hi>down-right,</hi> and in <hi>termes</hi> that were <hi>shallow.</hi> but pricks you on to doe your selfe <hi>right,</hi> or <hi>pleasure:</hi> and that now the opportunitie well serves; to <hi>make,</hi> or to <hi>encrease</hi> a <hi>fortune.</hi> Vnder this <hi>dresse,</hi> set he out his <hi>temptation,</hi> to our <hi>first parents:</hi> where besides his
+<pb n="26" facs="tcp:20188:18"/>
+                              <hi>depth Satanicall,</hi> of laying his temptation upon the very <hi>grounds</hi> of humane desires: he made semblance, withall, of a great <hi>preferment,</hi> by his meanes a comming to the <hi>Tempted.</hi> The three chiefe <hi>desireable</hi> things in the world; are <hi>Greatnesse, Beautie,</hi> and <hi>Knowledge:</hi> and he fitted <hi>Eve,</hi> with all of them<note n="g" place="margin">Gen. 3. 5.</note>. <hi>Yee shall be like Gods.</hi> neither <hi>Great<g ref="char:EOLhyphen"/>nesse,</hi> nor <hi>Beautie;</hi> could desire beyond a likenesse with the <hi>Diety,</hi> in either of them. <hi>Knowing good and evill.</hi> in which, all that <hi>Wisedome</hi> or <hi>Learning</hi> studyes for; are comprehended.</p>
+                           <p>There's all <hi>Varietie,</hi> besides, to satisfie <hi>Concupiscence,</hi> or <hi>Curiosity:</hi> all <hi>happinesse,</hi> in choosing <hi>good:</hi> and all <hi>safety,</hi> in avoyding <hi>evill.</hi> And this appearance of attai<g ref="char:EOLhyphen"/>ning a <hi>good condition;</hi> did the <hi>old Serpent</hi> set, upon their <hi>evill</hi> of <hi>rebellion.</hi>
+                           </p>
+                           <p>Now a <hi>mortified</hi> man, would have dealt wiselyer, in this case; or an <hi>innocent,</hi> then a <hi>sinnelesse.</hi> Whose am<g ref="char:EOLhyphen"/>bition aspireth rather to <hi>obey</hi> God, then to be <hi>like</hi> him. is contented with the <hi>Beautie</hi> hee already hath: till God clarifies it into <hi>Glory.</hi> and desirous to know no more, then <hi>Christ crucified</hi>
+                              <note n="h" place="margin">Gal. 6. 14.</note>. And that even to make him the more mortified. as <hi>whereby the world is crucified unto him,</hi> and he unto the world.</p>
+                        </div>
+                        <div n="2" type="wiliness">
+                           <head>2. <hi>Wylinesse</hi> of the <hi>Tempter:</hi> to <hi>lessen</hi> the <hi>Sinne,</hi> and the <hi>danger</hi> of it; after it is discovered.</head>
+                           <p>Cunningly, he turnes the other end of the <hi>Perspective</hi> glasse; which presents all things <hi>lesse</hi> to us. Yee shall not dye at all<note n="i" place="margin">Gen. 3. 5.</note>: said he to our <hi>first Parents.</hi> Even against this, too; is the <hi>mortifying</hi> man provided. who accuses himselfe; as fast as Sathan <hi>excuses</hi> Sinne. <hi>Of all sinners I am chiefe</hi>
+                              <note n="k" place="margin">1 Tim. 1. 15.</note>: sayd our Apostle. <hi>Iustus, in initio Sermonis est accusator sui; the Iust man, in the very beginning of his speech to God, becomes his owne Accuser:</hi> saith S<seg rend="sup">t</seg>. <hi>Ambrose</hi>
+                              <note n="l" place="margin">
+                                 <hi>Ambros. in Psal.</hi> 118.</note>.</p>
+                           <pb n="27" facs="tcp:20188:18"/>
+                           <p> The <hi>Mortifying</hi> man hath learned thus much (among the rest) from the <hi>Church service:</hi> even to begin with <hi>Confession;</hi> which the divell had rather he should, with <hi>Magnificat.</hi>
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+                  <div n="3" type="way_grace_works_on_the_soul">
+                     <head>3. Meanes, how <hi>Grace infused,</hi> helpes to <hi>mor<g ref="char:EOLhyphen"/>tifie:</hi> even by repressing <hi>evill thoughts,</hi> with <hi>mortifying meditations.</hi>
+                     </head>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> As, first, Thoughts of <hi>Pride,</hi> it keepes downe; by such considerations, as most <hi>vilifie</hi> a man unto himselfe. As the <hi>earth</hi> he was made of: the <hi>meane birth,</hi> which per<g ref="char:EOLhyphen"/>haps he is descended of: the distance betwixt others, and himselfe: and especially betwixt God and himselfe. The <hi>vilenesse</hi> of his private sinnes: with the <hi>shame,</hi> and <hi>losse,</hi> and <hi>danger</hi> they would bring him too, were they discovered.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Thoughts of <hi>Security,</hi> he rowses up; by the meditations of <hi>death,</hi> and <hi>Iudgement.</hi> with the severe <hi>Accoumpt</hi> he shall then be called to. The <hi>Hells</hi> hee hath deserved: and how <hi>hopelesly desperate,</hi> his owne meanes are; to avoid them.</p>
+                     <p>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, his Lusts of <hi>Appetite,</hi> to sumptuous varieties he oppresses; by considering these many <hi>delicacies,</hi> to be, indeed but <hi>superfluities:</hi> and that very contentedly, might a good man live without them. <hi>The Kingdome of God, is not meate and drinke</hi>
+                        <note n="l" place="margin">Rom. 14. 17</note>. <hi>Nature,</hi> would be satis<g ref="char:EOLhyphen"/>fied with a little: pompe, with nothing. <hi>Diogenes,</hi> threw away his <hi>dish:</hi> when he saw a boy make shift to drinke out of his <hi>hand.</hi> Our <hi>primitive Mortifiers,</hi> contented themselves with a <hi>Shirt,</hi> one <hi>Coate,</hi> a <hi>Mantle,</hi> and a <hi>hood,</hi> for their <hi>Apparrell:</hi> a <hi>Mat</hi> for their <hi>bed:</hi> a <hi>dish,</hi> and an earthen <hi>pot,</hi> for their <hi>houshold-stuffe.</hi> All this, and them<g ref="char:EOLhyphen"/>selves, they stow'd into a poore <hi>Cell</hi> of their owne buil<g ref="char:EOLhyphen"/>ding: no larger then they could lye along, and stand
+<pb n="28" facs="tcp:20188:19"/> upright in<note n="m" place="margin">
+                           <hi>Hierome, in vit<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Hilarionis. cap.</hi> 5 <hi>et Pallad: in Hist. Lausi c. sap<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>.</hi>
+                        </note>. <hi>Nazianzen</hi> highly commends <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, <hi>a life without houshold-stuffe, and superfluities</hi>
+                        <note n="n" place="margin">
+                           <hi>Nazianzen. Orat:</hi> 20. <hi>p.</hi> 357.</note>. And by and by, describes Saint <hi>Basils</hi> (and his owne) manner of living in the wildernesse; to bee, with one <hi>Coate,</hi> one <hi>Mantle,</hi> and a <hi>pallet</hi> upon the ground: to which, his <hi>diet</hi> was bread and salt; the running <hi>water</hi> serving to quench his thirst withall. Other <hi>Superfluities,</hi> the old <hi>Mortifiers</hi> considered not onely as <hi>vanities,</hi> but as <hi>impe<g ref="char:EOLhyphen"/>diments:</hi> yea, and the very <hi>luggage</hi> and <hi>baggage</hi> of the Army. To carry a <hi>wardrobe</hi> upon ones backe; and to be shackled with too long a <hi>traine</hi> of <hi>riches,</hi> of <hi>businesses,</hi> or of <hi>Offices:</hi> would be but cumbersome to those that had a <hi>race</hi> to runne. and but like <hi>long hayre;</hi> to such as were to <hi>buffet</hi> with <hi>Sathan:</hi> which hee would pluck them downe by.</p>
+                     <p>By some such like <hi>wayes,</hi> and <hi>meditations;</hi> does that <hi>Infused grace</hi> of God, <hi>mortifie</hi> our <hi>minds.</hi> Come we now to those <hi>harder Exercises;</hi> which holy men stirred up by this <hi>grace,</hi> have practised upon their <hi>bodies.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="2" type="kind_of_mortification">
+                  <head>2. Kind of <hi>Mortifications: Outward,</hi> or <hi>Practicall.</hi>
+                  </head>
+                  <p>And these, if you censure for <hi>Will-worship,</hi> or <hi>Super<g ref="char:EOLhyphen"/>stition:</hi> take heed lest therewithall, you condemne not the <hi>Authors</hi> of them. even our blessed <hi>Saviour;</hi> with his <hi>Prophets</hi> and <hi>Apostles</hi> And if Saint <hi>Paul</hi> found cause in himselfe, to <hi>tame his body,</hi> and <hi>beate it under,</hi> by <hi>hungring,</hi> and <hi>thirsting;</hi> by <hi>cold and nakednesse</hi>
+                     <note n="a" place="margin">2 Cor 11. 27.</note>. Saint <hi>Timothy,</hi> by <hi>water drinking</hi>
+                     <note n="b" place="margin">1 Tim. 5. 23</note> Saint <hi>Peter,</hi> by eating but once in two daies; as Saint <hi>Hierome</hi>
+                     <note n="c" place="margin">Hicrome.</note> tells us: and Saint <hi>Iames,</hi> by praying, till his knees were as hard as <hi>Camels hoofes:</hi> as sayes <hi>Eusebius</hi>
+                     <note n="d" place="margin">
+                        <hi>Eusebius; <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ist.</hi> 2. c 26.</note>: If these holy <hi>Apostles</hi> (I say,) who had
+<pb n="29" facs="tcp:20188:19"/> so great an <hi>inward</hi> measure of the <hi>mortifying</hi> Spirit; found themselves, notwithstanding, to have need of these <hi>corporall abstinences:</hi> doubtlesse; it is <hi>lawfull,</hi> at least (if not <hi>usefull)</hi> for those that come farre-short of their <hi>graces.</hi> Yea, let me recommend this <hi>Observation,</hi> to you: <hi>That the holyest men, were ever the severest morti<g ref="char:EOLhyphen"/>fiers.</hi> aye, and so esteemed in the learnedst and best <hi>Churches.</hi>
+                  </p>
+                  <p>Little hopes (God knowes) I have; to perswade you to undertake these <hi>hardships.</hi> nor is it, indeed, my <hi>inten<g ref="char:EOLhyphen"/>tion;</hi> to worke you to these <hi>heights,</hi> upon the <hi>sudden.</hi> At all adventures, I shall recommend the examples of these <hi>holy men,</hi> unto your considerations: and let God, in his good <hi>time</hi> and <hi>degree;</hi> worke the rest with you. A many of you (I know) will take your <hi>un-christian</hi> liber<g ref="char:EOLhyphen"/>tie, whatsoever the Apostles did; or I shall say unto you. If therefore, for the present, I gaine but thus much upon you; as for <hi>devotions</hi> sake to forbeare a <hi>lace,</hi> a <hi>dish,</hi> a <hi>cuppe,</hi> a <hi>pipe,</hi> a <hi>pleasure,</hi> or a <hi>Sinne:</hi> I should be as glad, as <hi>Ignatius Loiola</hi> was sometimes said to be<note n="e" place="margin">Ribadaneira, in vita Ignat<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i.</note>. Who using oftentimes, to a house of <hi>Maides of pleasure,</hi> with an in<g ref="char:EOLhyphen"/>tention to convert them: was by this argument, of a friend of his, discouraged. for (sayes he) you will ne<g ref="char:EOLhyphen"/>ver perswade the young queanes, to leave their old trade. <hi>Oh,</hi> saith he, <hi>if I could but hinder one of them, from disho<g ref="char:EOLhyphen"/>nouring Christ but one night: I should esteeme my labour very well bestowed.</hi> Twas either well <hi>done,</hi> or well <hi>made,</hi> of him.</p>
+                  <p>What I have observed of those <hi>Apostolicall</hi> and <hi>primi<g ref="char:EOLhyphen"/>tive mortifications:</hi> I divide into what they did by <hi>day:</hi> and what by <hi>night:</hi> what <hi>ordinarily;</hi> and what <hi>ex<g ref="char:EOLhyphen"/>traordinarily.</hi>
+                  </p>
+                  <div n="1" type="time_of_mortification">
+                     <pb n="30" facs="tcp:20188:20"/>
+                     <head>1. Their <hi>Mortifications</hi> by day. and that in their <hi>Labour, Diet,</hi> and <hi>Apparrell.</hi>
+                     </head>
+                     <div n="1" type="means_of_mortification">
+                        <head>1. <hi>Mortifying</hi> by <hi>Labour.</hi>
+                        </head>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> A tryed <hi>Remedy,</hi> both against <hi>Lust</hi> and <hi>Ambition.</hi> Whosoever knowes the <hi>professed mortifiers</hi> course of life, knowes them for hard <hi>Labourers.</hi> I forbeare to enlarge this: being so common to be read, in Saint <hi>Athanasius,</hi> Saint <hi>Hierome, Cassian, Palladius</hi> and <hi>Ruffinus.</hi> This learned the <hi>Easterne Mortifiers,</hi> from Saint <hi>Marke,</hi> sayes <hi>Cassian.</hi> and from Saint <hi>Paul</hi> too, 1 <hi>Cor.</hi> 4. 12. <hi>Act.</hi> 20. 34. sayes Saint <hi>Augustine, l. de morib. Eccles. c.</hi> 33. where he affirmeth the <hi>Westerne mortifiers,</hi> to have recei<g ref="char:EOLhyphen"/>ved this from the <hi>Easterne,</hi> and from the Apostle.</p>
+                     </div>
+                     <div n="2" type="means_of_mortification">
+                        <head>2. Their <hi>mortifying</hi> by <hi>Diet.</hi>
+                        </head>
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="2"/> They <hi>eate</hi> but by <hi>ounces:</hi> being lesse <hi>Meates-men,</hi> then our <hi>Lessians.</hi> Saint <hi>Iohn Baptist,</hi> we see, neither eate <hi>bread,</hi> nor dranke <hi>wine</hi>
+                           <note n="f" place="margin">Luke 1. 15.</note>. but <hi>his meate was locusts, and wild ho<g ref="char:EOLhyphen"/>ney</hi>
+                           <note n="g" place="margin">Matth. 3. 4.</note>. <hi>Nazianzen</hi> tells us Saint <hi>Peters diet,</hi> was a few <hi>Lu<g ref="char:EOLhyphen"/>pines</hi> or pulse<note n="h" place="margin">Nazianzen: Orat. de Amore paup.</note>. By <hi>Eusebius</hi> wee find, that Saint <hi>Iames</hi> forbare both <hi>flesh</hi> and <hi>wine</hi>
+                           <note n="i" place="margin">
+                              <hi>Euseb. Hist. l.</hi> 2. <hi>c.</hi> 22.</note>. <hi>Clemens Alexandrinus</hi> also tells us, that Saint <hi>Matthewes</hi> food was <hi>Seeds, Acornes,</hi> (or berryes) <hi>and hearbes, without flesh meate,</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>
+                           <note n="k" place="margin">
+                              <hi>Clem. Alex. Paedag. l.</hi> 2. <hi>c.</hi> 1. <hi>pag.</hi> 148.</note> Yea, though Saint <hi>Timothy</hi> had brought himselfe and <hi>stomacke</hi> to <hi>often infirmities;</hi> through his <hi>fasting</hi> and <hi>water-drinking:</hi> yet the Apostle allowes him but a <hi>little wine.</hi> enough for <hi>physicke;</hi> not for pleasure: sayes Saint <hi>Chrysostome</hi>
+                           <note n="l" place="margin">
+                              <hi>Chrysost: Hom.</hi> 16. <hi>in</hi> 1 <hi>Tim.</hi> 5. <hi>pag.</hi> 517.</note>.</p>
+                        <p>Marvaile not, now, at the strange <hi>abstemiousnesse</hi> of the <hi>primitive Mortifiers;</hi> which I shall next tell you of: see<g ref="char:EOLhyphen"/>ing you may perceive they received their <hi>bill</hi> of <hi>fare,</hi> from the Apostle. The daily <hi>Commons</hi> of these <hi>Disciples</hi>
+                           <pb n="31" facs="tcp:20188:20"/> of Saint <hi>Marke; Cassian</hi> assures to be two <hi>Paxamidia</hi> or <hi>Paxamatia</hi>
+                           <note n="m" place="margin">
+                              <hi>Cassian Insti<g ref="char:EOLhyphen"/>tut. l.</hi> 4. <hi>c.</hi> 14. <hi>&amp; Collatione.</hi> 12. <hi>c.</hi> 15. <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>. <hi>Suidas.</hi> Bisket. And <hi>Hesychius.</hi>
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>. Twice baked.</note>, little course <hi>bisket-cakes,</hi> of five or sixe oun<g ref="char:EOLhyphen"/>ces a piece. The same may wee observe, by Saint <hi>An<g ref="char:EOLhyphen"/>thonyes</hi> bringing out foure <hi>Paxamidia</hi> or <hi>biskets,</hi> for him<g ref="char:EOLhyphen"/>selfe and <hi>Paulus</hi>
+                           <note n="n" place="margin">
+                              <hi>Pallad. in Hist. Lausiac. in vita Pauli Simplicis, p.</hi> 83.</note>. These, <hi>Palladius</hi> sayes, were <hi>dry:</hi> as he notes also of others<note n="o" place="margin">As <hi>Cap.</hi> 52. <hi>p.</hi> 145.</note>, otherwhere. <hi>Ruffinus</hi> calls them <hi>dry bread</hi>
+                           <note n="p" place="margin">
+                              <hi>Ruffin. l.</hi> 3. <hi>n.</hi> 19. <hi>p</hi> 498. <hi>apud. Rosweyd. de Vitis Pa<g ref="char:EOLhyphen"/>trum.</hi>
+                           </note>. So likewise does <hi>Pelagius</hi>
+                           <note n="q" place="margin">
+                              <hi>Pelagius. num.</hi> 97. <hi>p</hi> 607. <hi>apud Rosweyd.</hi>
+                           </note>. These <hi>biskets,</hi> therefore, they softned in water: as Saint <hi>Anthony</hi> did; in the place forequoted. To these, they sometimes ad<g ref="char:EOLhyphen"/>ded a <hi>second course</hi> of five <hi>Olives.</hi> So did the severe <hi>Pior:</hi> as <hi>Ruffinus</hi> tells us<note n="r" place="margin">
+                              <hi>Ruffia. ubi su<g ref="char:EOLhyphen"/>pra. lib.</hi> 3. <hi>n.</hi> 31. <hi>pag.</hi> 503.</note>. Sometimes they feasted it with <hi>herbs,</hi> or <hi>fruits:</hi> but in exceeding small quantities. Saint <hi>Augustine</hi> tells of divers, whose diet was <hi>bread</hi> and <hi>water,</hi> onely: who with <hi>pure minds, served and enjoyed God allmightie</hi>
+                           <note n="s" place="margin">
+                              <hi>To.</hi> 1. <hi>lib. de Moribus Ec<g ref="char:EOLhyphen"/>clesiae. c</hi> 31.</note>.</p>
+                        <p>Some had forcibly compounded with their stomacks, but to eate one meale in two or three dayes: as the same Father tells us<note n="t" place="margin">S. <hi>Aug. ubi supra. cap.</hi> 33.</note>. Thus abstemious were the <hi>Iewish Essens:</hi> as <hi>Philo Iudaeus</hi> shewes us. Which <hi>Epiphanius,</hi> likewise, applyes unto some <hi>Christians</hi>
+                           <note n="u" place="margin">
+                              <hi>Epiphan in Panario lib.</hi> 1. <hi>To.</hi> 2. <hi>haeresi.</hi> 29. <hi>n.</hi> 5. <hi>p.</hi> 120.</note>.</p>
+                        <p>Their common <hi>abstīnence,</hi> was to eate nothing untill after <hi>Evening Prayer:</hi> as we learne by <hi>Palladius</hi> and <hi>Ruf<g ref="char:EOLhyphen"/>finus</hi>
+                           <note n="x" place="margin">
+                              <hi>Ruffin. ubi su<g ref="char:EOLhyphen"/>pra. lib.</hi> 2. <hi>c.</hi> 7. <hi>pag.</hi> 464.</note>. And if any man should here alledge, that the <hi>fa<g ref="char:EOLhyphen"/>sting</hi> untill the very <hi>Evening;</hi> was a singular severity on<g ref="char:EOLhyphen"/>ly of the <hi>Montanists:</hi> (because it is pressed by <hi>Tertullian)</hi> I can easily refute it out of Saint <hi>Augustine</hi>
+                           <note n="z" place="margin">Vbi supra.</note>: who with much admiration, maketh mention of this strictnesse. Yea, and <hi>Paulinus,</hi> (a <hi>Christian</hi> Poet of the same Age) assures as much<note n="a" place="margin">Paulinus. In Nat: Foelicis.</note>:<hi>—Solutis—Coetibus a templo Domini; postquam data fessis Corporibus requies, sumpta dape coepi<g ref="char:EOLhyphen"/>mus hymnos, Exultare Deo: &amp; psalmis producere noctem.</hi> That is, <hi>the Congregation after Evening Prayer, gone to bed; wee began our hymnes: which were continued for a great part</hi>
+                           <pb n="32" facs="tcp:20188:21"/>
+                           <hi>of the night.</hi> The Churches reason for which, is intima<g ref="char:EOLhyphen"/>ted by <hi>Tertullian</hi>
+                           <note n="c" place="margin">
+                              <hi>L. de I<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>jun. c.</hi> 10.</note>: because Saint <hi>Peter</hi> then went up into the Temple: <hi>Act.</hi> 3. 1.</p>
+                        <p>Nor will I urge that <hi>primitive</hi> practice, of forbearing all <hi>broths,</hi> and wine: yea and all <hi>juicie fruits;</hi> in their fasting dayes. These they called <hi>Xerophagiae;</hi> or <hi>dry-fee<g ref="char:EOLhyphen"/>ding. Our dry diet</hi> (sayes <hi>Tertullian</hi>
+                           <note n="d" place="margin">Tertull. ibid.</note>) <hi>is voyd of all flesh-meates, broth and moyst fruites: that so we might neither eate nor drinke, any wynynesse.</hi> These feedings upon the <hi>dryest,</hi> and least <hi>juicye</hi> meates: the severe <hi>Christians</hi> bor<g ref="char:EOLhyphen"/>rowed from the <hi>Romans</hi> dieting their <hi>Champions,</hi> in this order. So <hi>Tertullian</hi>
+                           <note n="e" place="margin">
+                              <hi>Lib. Advers. Psych. cap.</hi> 17.</note>. <hi>Saginantur pugiles qui Xerophagiis invalescunt. Champions are thus fed: who waxe strong by their feeding upon dry things.</hi> And this he other where<note n="f" place="margin">
+                              <hi>Lib. de Pallio. cap.</hi> 4. Where see, the excel<g ref="char:EOLhyphen"/>lently learned <hi>Salmasius notes:</hi> what this dry diet consisted of.</note>, calls <hi>Arida Saginatio:</hi> a <hi>battning upon dry diet.</hi> I doe ve<g ref="char:EOLhyphen"/>ry well perceive by <hi>Tertullian;</hi> that this <hi>hardship,</hi> of <hi>dry diet,</hi> was much censured in those <hi>Ages:</hi> even by the then pure and strict <hi>Roman</hi> Church. For (to say truth) our Northerne <hi>Europaean</hi> nations; were ever more <hi>carnall-stomackt:</hi> then the <hi>Camaeleon-Easterne</hi> people. One of those <hi>Mortifiers,</hi> would have starved ten <hi>Spaniards.</hi> Their examples, therefore, (especially in that high severity) I produce rather for <hi>Admiration</hi> then imitation: even that wee may see, what wonderfull abilities, God gives, now and then, unto <hi>Endeavorers.</hi> Tis a true one of Saint <hi>Am<g ref="char:EOLhyphen"/>brose</hi>
+                           <note n="g" place="margin">Ambros. Com<g ref="char:EOLhyphen"/>ment in Ephes.</note>. <hi>In quo quis animum intendit, in eo accipit donum; that way a religious heart, bends his mind; hee re<g ref="char:EOLhyphen"/>ceives a Gift from God All-mightie, to goe thorow with it.</hi>
+                        </p>
+                        <p>But though this severity of <hi>broath-lesse,</hi> and <hi>juyce-lesse</hi> dyet, in their solemne <hi>Fasting dayes;</hi> hath beene censured in <hi>Montanus:</hi> yet me thinks) tis farre stranger which I find uncensured in <hi>Clemens Alexandrinus</hi>
+                           <note n="h" place="margin">
+                              <hi>Clem. Alexan. Paedagog: l.</hi> 2. <hi>c.</hi> 1. <hi>pp.</hi> 141. and 142.</note>. Namely, that
+<pb n="41" facs="tcp:20188:21"/>
+                           <hi>orthodoxe Father,</hi> reprehends these <hi>broaths,</hi> even in the old <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, or <hi>Christian Feasts of Charity,</hi> as the Apostle calles them<note n="c" place="margin">Iude ver. 12.</note>. <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. &amp;c. <hi>Some</hi> (saith he) <hi>with an over<g ref="char:EOLhyphen"/>liberall tongue, dare to stile such dinners, as smell of the steeme of meats and broath: by the name of that Feast of Charity. disgracing and defiling that sacred feast, with I know not what flesh-pots, and liquid messes.</hi> Hard <hi>doctrine</hi> this were, for our Ages: who like the <hi>flesh-pots of Egypt,</hi> a great deale better.</p>
+                        <p>As for strange examples, of extream long <hi>fasting;</hi> rather then venture my credit with you, in not being beleeved: I referre (those that please) to seeke for them in <hi>Palla<g ref="char:EOLhyphen"/>dius</hi>
+                           <note n="d" place="margin">
+                              <hi>Palladius Hist. Laus. cap.</hi> 20. <hi>in Macario pag</hi> 60.</note>: in S<seg rend="sup">t</seg>. <hi>Gregory Nazianzen</hi>
+                           <note n="e" place="margin">
+                              <hi>Nazianzen Carmine</hi> 47. <hi>ad Hell<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n pro Mo<g ref="char:EOLhyphen"/>nachis. pag.</hi> 107.</note>: in S<seg rend="sup">t</seg>. <hi>Augustine</hi>
+                           <note n="f" place="margin">
+                              <hi>August. Epist.</hi> 86. <hi>ad Casulan. pag.</hi> 132. <hi>E. et l. de moribus Ec<g ref="char:EOLhyphen"/>clesiae, cap.</hi> 33.</note>, in S<seg rend="sup">t</seg>. <hi>Hierome</hi>
+                           <note n="g" place="margin">Hierome, in vi<g ref="char:EOLhyphen"/>ta Hilarionis.</note>: in <hi>Ruffinus</hi>
+                           <note n="h" place="margin">Ruffinus in vitis Patrum: saepe.</note>. All which lived early in the <hi>fourth</hi> Age or <hi>Century;</hi> after our blessed Saviour: full 1200 yeares agoe, the youngest of them; and none of them Papists.</p>
+                        <p>I might here encrease your admirations, by giving strange examples of that <hi>Soveraigntie</hi> by them exercised, over their owne <hi>appetites:</hi> which S<seg rend="sup">t</seg>. <hi>Gregory Nazian<g ref="char:EOLhyphen"/>zen</hi>
+                           <note n="i" place="margin">Nazianz. Orat. pro Basilio.</note>, and divers other <hi>Fathers,</hi> call the greatest <hi>delicacy.</hi> strong arguments of that longing desire they <hi>went</hi> with<g ref="char:EOLhyphen"/>all, to <hi>mortifie</hi> all <hi>affections</hi> in them. Which was so <hi>zea<g ref="char:EOLhyphen"/>lous,</hi> that some of them would eate nothing, which had passed the fire; either by <hi>baking, boyling, roasting,</hi> or the like. As <hi>Macarius, Apollo:</hi> and divers others, in <hi>Palla<g ref="char:EOLhyphen"/>dius</hi>
+                           <note n="a" place="margin">
+                              <hi>Palladius. cap.</hi> 19. <hi>pag.</hi> 55. <hi>&amp;c.</hi> 52. <hi>p.</hi> 138.</note>, <hi>Ruffinus</hi>
+                           <note n="b" place="margin">Ruffin. in vit<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Apollinis. &amp; saepe, apud Ros<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <g ref="char:EOLunhyphen"/>weyd. de vitis Patrum.</note>. The same <hi>Father</hi> likewise tels of some, that eate nothing but <hi>Meale</hi> mingled with water. Yea one of them (if he abuses not his Reader) would of pur<g ref="char:EOLhyphen"/>pose let his <hi>meale</hi> grow a little <hi>sowre</hi> or <hi>musty;</hi> even to <hi>flat</hi> the <hi>tast:</hi> that his hunger might not be tempted with the <hi>savourinesse,</hi> to desire another mouthfull.</p>
+                     </div>
+                     <div n="3" type="means_of_mortification">
+                        <pb n="42" facs="tcp:20188:22"/>
+                        <head>3. Their <hi>Mortifications</hi> by <hi>Apparrell.</hi>
+                        </head>
+                        <p>The <hi>Habite</hi> of the severest <hi>Professors,</hi> (even for 300 or 400 yeares after our <hi>Saviours</hi> time) was the very same, by our <hi>Lord</hi> appointed to his Disciples.<note n="c" place="margin">Math. 10. 10. Mark. 6. 8, 9. Luke 10. 4.</note> And that was, To weare but <hi>one coate:</hi> no <hi>shoes,</hi> but <hi>Sandalls:</hi> over all which, a <hi>Mantle</hi> (like the <hi>Irish)</hi> is to be supposed; though the holy <hi>Text</hi> makes no mention of it. The <hi>coate</hi> was of the fashion of our <hi>Albe</hi> or <hi>Surplice,</hi> and so put on. This they ware not upon the <hi>bare;</hi> but over a <hi>Shirt.</hi> The fa<g ref="char:EOLhyphen"/>shion of the times, was to weare two of these <hi>coates</hi> at once; and that for <hi>warmnesse:</hi> which is yet forbidden to the Disciples. <hi>Cassian</hi> indeed tells us, that these se<g ref="char:EOLhyphen"/>vere <hi>mortifiers,</hi> were in some cold Countries dispenced withall, to weare two coates. but this, by way of favour, onely. so also does S<seg rend="sup">t</seg>. <hi>Hierome</hi> in <hi>Math.</hi> 10<note n="d" place="margin">
+                              <hi>In Matth.</hi> 10.</note>. The usuall garbe of the Apostles wearing the <hi>Mantle;</hi> was to fling one lappet of it, under the <hi>right Arme:</hi> and back againe, over the <hi>left shoulder:</hi> and so to leave the right arme bare. This was the very <hi>habite</hi> of the <hi>Cynick Philosophers:</hi> as I learne by that curious <hi>Master-Critick,</hi>
+                           <note n="e" place="margin">
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> Salmas. in No<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>is ad Tertull. de Pallio.</note>
+                           <hi>Salmasius;</hi> of all men best skilled in old habits. Excepting onely, that the <hi>Disciples</hi> were forbidden a <hi>Scrip:</hi> in which, they were meanlyer accommodated then the <hi>Cynicks.</hi> The <hi>stuffe</hi> of the <hi>Mantle,</hi> was <hi>course,</hi> and <hi>rough.</hi> The <hi>Baptists, was of Camells haire; shaggie.</hi> For <hi>rough</hi> indeed, was the usuall, and distinguishing wearing of the old Prophets: as appeareth by that of <hi>Zachary</hi>
+                           <note n="a" place="margin">Zach. 13. 4.</note>, from the <hi>roughnesse</hi> of his <hi>habite;</hi> not from the <hi>Esaw-nesse</hi> of his <hi>skinne:</hi> was <hi>Eliah</hi> call'd a <hi>Hayrie man:</hi> and knowne to be a <hi>Prophet</hi> by it<note n="b" place="margin">2 Kings 1. 8.</note>.</p>
+                        <p>The <hi>covering</hi> for their <hi>head</hi> and <hi>neck:</hi> was a good ho<g ref="char:EOLhyphen"/>nest <hi>Sheepes-skin</hi> or <hi>Goat-skin;</hi> with the <hi>Fell</hi> on it. as wee reade, <hi>Heb.</hi> 11. 37.<note n="c" place="margin">Heb. 11. 37.</note> And this is that, which our <hi>English</hi>
+                           <pb n="43" facs="tcp:20188:22"/>
+                           <hi>Translation</hi> calls <hi>Eliahs Mantle:</hi> which indeed was his <hi>Hoode.</hi> This was it, which he threw upon <hi>Elisha</hi> at first: and which afterwards <hi>Elisha</hi> tooke up, at the <hi>Ascension</hi> of his <hi>Master.</hi> Cleerely does <hi>Clemens Alexandrinus, Pae<g ref="char:EOLhyphen"/>dagog, l.</hi> 2. <hi>c.</hi> 10. call it a <hi>Sheepes-skin.</hi>
+                           <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>Elias came</hi> in a <hi>hood of Sheepes skin</hi>
+                           <seg rend="sup">d</seg>: And so does Saint <hi>Iohn, Chrysostome</hi>
+                           <note n="e" place="margin">
+                              <hi>Chrysost. in <gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> Acta: Homil.</hi> 4. <hi>p.</hi> 41. And <hi>Hierom. Epist.</hi> 28. <hi>Melot<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n. reliquis in terri<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi>
+                           </note>: <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>E<g ref="char:EOLhyphen"/>lisha received grace, by a Sheepeskin.</hi> This <hi>Melota,</hi> is by <hi>Cassian</hi>
+                           <note n="f" place="margin">
+                              <hi>Cassian. de In<g ref="char:EOLunhyphen"/>stit. lib.</hi> 1. <hi>cap.</hi>
+                              <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                           </note> intimated, not onely to be the ordinary and <hi>ca<g ref="char:EOLhyphen"/>nonicall</hi> wearing of these <hi>Primitive mortifiers</hi> of <hi>Egypt;</hi> successours to the Disciples of S<seg rend="sup">t</seg>. <hi>Marke:</hi> but also the reason is by him given, out of <hi>Hebrewes</hi> 11. 17. <hi>They wan<g ref="char:EOLhyphen"/>dred up and downe in Sheepe-skins, &amp;c.</hi> yea the <hi>end,</hi> is also there alleadged: the wearing of a <hi>dead</hi> beasts skinne, be<g ref="char:EOLhyphen"/>ing to put them in minde, of their being <hi>dead unto the world.</hi> Now as <hi>Cassian</hi> intimates, that the <hi>mortifiers</hi> of the <hi>New Testament,</hi> received this <hi>habite</hi> from those of the <hi>Old:</hi> so is it to this day continued. in the <hi>Hoods</hi> of <hi>skins,</hi> I meane, of our <hi>Batchelors</hi> and <hi>Masters,</hi> of the <hi>Vniversi<g ref="char:EOLhyphen"/>ties:</hi> the shape of the old <hi>Melota,</hi> being neerely also in that <hi>hoode</hi> continued. <hi>Pagnine</hi>
+                           <note n="g" place="margin">
+                              <hi>Pagnine in</hi>
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>
+                           </note> notes, that <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, (the word used for <hi>Eliahs Mantle)</hi> sometimes signifies <hi>pallium pilosum, a hayrie habite.</hi> Also that it was the <hi>badge</hi> or <hi>pro<g ref="char:EOLhyphen"/>per wearing</hi> of the <hi>Prophets.</hi> which, in the last place, hee derives from <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>Adar;</hi> to <hi>magnifie.</hi> and <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, hee<note place="margin">The <hi>Septuagi<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi> translate it b<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>.</note> translates either <hi>Pallium,</hi> or <hi>Magnificentia:</hi> a <hi>Hoode,</hi> or <hi>Magnificence.</hi> And this is the use of it, now a dayes: tis the <hi>badge of distinction, magnificence</hi> and <hi>honour,</hi> of those that take <hi>degrees</hi> in <hi>Schooles.</hi> The <hi>wearers,</hi> notwithstand<g ref="char:EOLhyphen"/>ing, either in the <hi>Hoodes</hi> of our <hi>Vniuersities,</hi> or in the <hi>Roabes</hi> of our <hi>Courts of Iustice,</hi> or of our <hi>Parliaments,</hi> (all which be of <hi>skinnes,</hi> and from hence derived) are secretly therewithall admonished; to remember their <hi>mortifi<g ref="char:EOLhyphen"/>cation,</hi>
+                           <pb n="44" facs="tcp:20188:23"/> together with their <hi>magnificence.</hi>
+                        </p>
+                        <p>Now to our <hi>Athenian Graduates;</hi> may that <hi>mortifying</hi> conceipt of the old <hi>Athenians;</hi> not unseasonably be ap<g ref="char:EOLhyphen"/>plied▪ who though the better sort of them, ware an im<g ref="char:EOLhyphen"/>broydered coate, called <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>; yet they bepaynted this, with <hi>Grashoppers:</hi> even to remember them of the <hi>earth</hi> they were taken from<note n="n" place="margin">
+                              <hi>Clemens Alex. Paedagog. l.</hi> 2. <hi>cap.</hi> 10. <hi>p.</hi> 199.</note>. <hi>Honour,</hi> had ever neede of some remembrancer for to <hi>humble</hi> and to <hi>mortifie</hi> it. And this was our <hi>Fore fathers</hi> intention; in making the hoodes of <hi>Graduates,</hi> of <hi>Proctors,</hi> and of <hi>Iudges;</hi> of <hi>Morticinia,</hi> or <hi>dead beasts skinnes.</hi>
+                        </p>
+                        <p>Now for the ordinary <hi>colour</hi> of their garments; in the more mortified sort, it was that of the <hi>naturall</hi> wearing of the <hi>Sheepe,</hi> undyed. <hi>White</hi> was a gay colour, in those Ages: which therefore <hi>Clemens Alexandrinus,</hi>
+                           <note n="o" place="margin">See <hi>Clem. A<g ref="char:EOLhyphen"/>lex. Paedagog. lib.</hi> 2 <hi>cap.</hi> 10. <hi>&amp; cap.</hi> 11. <hi>lib.</hi> 3.</note> would not have <hi>Christians</hi> make to <hi>shine,</hi> with the <hi>Fullars</hi> Art. <hi>Abdias Babylonius,</hi> therefore, shewes himselfe but a <hi>forger:</hi> to trick up S<seg rend="sup">t</seg>. <hi>Bartholmew</hi> the <hi>Apostle,</hi> in a coate studded with <hi>purple:</hi> and in a mantle with foure <hi>gemmes,</hi> one at each corner<note n="p" place="margin">
+                              <hi>Abdias in A<g ref="char:EOLhyphen"/>
+                                 <gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ostolica Historia. <gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>ag.</hi> 96.</note>.</p>
+                        <p>And whereas our blessed <hi>Saviour</hi> had forbidden <hi>Shooes</hi> to his <hi>Disciples</hi>
+                           <note n="q" place="margin">Mark. 6. 9.</note>: he was herein also obeyed by the pri<g ref="char:EOLhyphen"/>mitive Mortifiers. Yea, <hi>Clemens Alexandrinus</hi>
+                           <note n="r" place="margin">
+                              <hi>Clem. Alex. Paedag. l.</hi> 2. <hi>c.</hi> 11.</note> tells us out of that speech of S<seg rend="sup">t</seg>. <hi>Iohn Baptist, whose Shoo latchet I am not worthy to unlose;</hi> meaning it of our <hi>Saviour:</hi> that our Lord himselfe weare but very meane <hi>Shooes</hi> or <hi>San<g ref="char:EOLhyphen"/>dalls.</hi> For they were <hi>Sandalls,</hi> which were thus bound on with <hi>Latchets.</hi> So much (and the Apostles <hi>obeying</hi> and imitating their <hi>Master</hi> in it) wee know by the <hi>Angells</hi> speech unto S<seg rend="sup">t</seg>. <hi>Peter, Binde on thy Sandalls</hi>
+                           <note n="s" place="margin">Acts 12. 8.</note>. Meere <hi>Soles,</hi> tyed on with <hi>strings. Clemens Alexandrinus,</hi> hath a <hi>chap<g ref="char:EOLhyphen"/>ter</hi>
+                           <note n="t" place="margin">
+                              <hi>Paedagog. l.</hi> 2. 11.</note> of the <hi>Shooing,</hi> of the <hi>primitive Christians:</hi> Where he sayes, <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. <hi>Twas a very comely</hi>
+                           <pb n="45" facs="tcp:20188:23"/>
+                           <hi>fashion, for a man to be barefooted;</hi> And for <hi>Asceticks,</hi> he, by and by, avowes it to be the <hi>best way</hi> to be <hi>barefooted.</hi> Yea <hi>Tertullian</hi>
+                           <note n="u" place="margin">
+                              <hi>Tertull. l. de Pallio. c.</hi> 5. <hi>Praestat esse Nudipedem, quám vincipe<g ref="char:EOLhyphen"/>dem.</hi> which conceit I also find in <hi>Clemens Alexandrinus,</hi> in the place last quoted: in his alluding <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap>, to <gap reason="foreign">
+                                 <desc>〈 in non-Latin alphabet 〉</desc>
+                              </gap> To be shodd, is to be bound: So was the conceipt of the times.</note> is so severe; as to call both <hi>Shooes</hi> and <hi>Sandals, Immundissimam pedum tutelam,</hi> a slovenly stin<g ref="char:EOLhyphen"/>king defence of the feet: affirming it farre better for the feet to beat <hi>liberty,</hi> though in the <hi>cold:</hi> then to be put in the <hi>Shoe-makers stocks. Clemens Alexandrinus</hi> affirmeth <hi>Eliah</hi> to have gone bare-footed. Saint <hi>Gregory Nazianzen</hi> makes <hi>Goers barefoote,</hi> to be imitators of Apostolicall spirited people <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>. Saint <hi>Augu<g ref="char:EOLhyphen"/>stine</hi>
+                           <note n="x" place="margin">
+                              <hi>Aug. Confess. lib.</hi> 9. <hi>c.</hi> 6.</note> commends the <hi>valiantnesse</hi> of his <hi>Alipius;</hi> who in the <hi>taming of his body, did weare the frosty earth of Italy, with his bare feete.</hi> Yea the Primitive <hi>Egyptian Mortifyers,</hi> con<g ref="char:EOLhyphen"/>cluded <hi>Shoes</hi> to bee forbidden by our Lord<note n="y" place="margin">
+                              <hi>Cass. de Instit. l.</hi> 1. <hi>c.</hi> 10.</note>. as for <hi>San<g ref="char:EOLhyphen"/>dals,</hi> they forbare them too, when they came to Gods house: never wearing them but in their <hi>Iourneyes, Sick<g ref="char:EOLhyphen"/>nesse;</hi> or <hi>extreme hote,</hi> or <hi>cold</hi> weather.</p>
+                        <p>By these particulars, may you guesse, at the <hi>garb</hi> and severity of <hi>Apparrell;</hi> in our <hi>primitive Mortifiers,</hi> these Apostolicall spirits, would put on nothing that was ei<g ref="char:EOLhyphen"/>ther <hi>soft,</hi> or <hi>bewtifull,</hi> or <hi>rich,</hi> or <hi>fashionable:</hi> even no<g ref="char:EOLhyphen"/>thing to please the flesh withall. yea, purposely with Saint <hi>Iohn Baptist,</hi> refusing the <hi>softnesse</hi> of <hi>wooll;</hi> for the harsh roughnesse of <hi>Cammels hayre:</hi> as <hi>Clemens Alex<g ref="char:EOLhyphen"/>andrinus</hi> sayes of him<note n="a" place="margin">Loco citato.</note>.</p>
+                        <p>Now all this thinne <hi>diet</hi> and <hi>Apparrell,</hi> if it <hi>mortified</hi> not enough; they abated of it. <hi>Domabote, Aselle; Ile tame thee, thou Asse;</hi> said one of them to his body. <hi>Minu<g ref="char:EOLhyphen"/>am cibos; Ile take away thy provander,</hi> if that pricks thee. Yea they added Sackcloath, to their bare flesh: as <hi>Cle<g ref="char:EOLhyphen"/>mens Alexandrinus</hi>
+                           <note n="b" place="margin">
+                              <hi>Clem. Alex. Paedagog. l.</hi> 2. <hi>c.</hi> 10.</note> sayes, the Prophet <hi>Esay</hi> did. They would also lye upon the ground: Stand on their feete many howres together, even to wearinesse. Yea goe in
+<pb n="46" facs="tcp:20188:24"/> to the cold <hi>water,</hi> to quench evill concupiscence in them. All these practises, are so common and so ordi<g ref="char:EOLhyphen"/>nary, in Saint <hi>Athanasius,</hi> Saint <hi>Hierome, Palladius, Ruf<g ref="char:EOLhyphen"/>finus, Theodoret;</hi> and in all those that have written the <hi>lives</hi> of those renowned <hi>Ancients:</hi> that I thinke it lost la<g ref="char:EOLhyphen"/>bour, to be too <hi>curious.</hi> Yea and that it may appeare a little <hi>ambitious;</hi> to quote all the places for them. Suf<g ref="char:EOLhyphen"/>fice it to know, that these <hi>men,</hi> and things in them; were written and commended, by such severall <hi>Authors:</hi> as, in other things, were Adversaries to one another. namely by Saint <hi>Hierome,</hi> on the one side: and by <hi>Ruf<g ref="char:EOLhyphen"/>finus</hi> his <hi>Antagonist.</hi> as also by <hi>Palladius;</hi> a friend unto <hi>Ruffinus:</hi> and for that reason, unfriendly enough unto Saint <hi>Hierome</hi>
+                           <note n="c" place="margin">
+                              <hi>See Pallad. in Hist. Lausiaca. c.</hi> 78. and the <hi>Note</hi> upon it.</note>. Yea people severally affected in point of <hi>Religion:</hi> did yet agree in their <hi>Admirations</hi> of these <hi>Mortifiers.</hi> And thus have I delivered something, con<g ref="char:EOLhyphen"/>cerning their <hi>Mortifications</hi> by day. examine we in the next place, their religious passing over of the <hi>night.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div n="2" type="time_of_mortification">
+                     <head>2. <hi>Mortifications</hi> by <hi>Night.</hi> This distinguish I, into the severall <hi>Actions;</hi> which themselves did.</head>
+                     <div type="actions">
+                        <p>
+                           <milestone type="tcpmilestone" unit="unspecified" n="1"/> The first part whereof, I make to be their late <hi>watch<g ref="char:EOLhyphen"/>ings:</hi> both by <hi>precept</hi> and <hi>example;</hi> so often by our bles<g ref="char:EOLhyphen"/>sed <hi>Saviour</hi> recommended unto his <hi>Disciples.</hi>
+                           <note n="d" place="margin">Matt. 13. 33, 37.</note> and by them, to us.<note n="e" place="margin">1 Thes. 5. 6. 2 Tim. 4. 5. 1 Pet. 4. 7.</note> whereupon, I was <hi>in watchings oft,</hi> saith our <hi>Apostle</hi>
+                           <note n="f" place="margin">2 Cor. 11. 27.</note>. Yea, the <hi>Preaching</hi> was continued untill midnight<note n="g" place="margin">Acts 20. 7.</note>. <hi>Clemens Alexandrinus</hi> advises <hi>Christians</hi> to practise the Art of <hi>watchfulnes:</hi> and by exercise, to gaine upon their <hi>drowsinesse.</hi>
+                           <note n="h" place="margin">
+                              <hi>Clem. Alex. Paedag. l.</hi> 2. <hi>c.</hi> 9.</note> Yea good <hi>watchers,</hi> he compares to <hi>Angells:</hi> which (saith hee) wee call <gap reason="foreign">
+                              <desc>〈 in non-Latin alphabet 〉</desc>
+                           </gap>, <hi>watchmen.</hi> Late <hi>watchings,</hi> to <hi>pray, meditate,</hi> and <hi>reade:</hi> we finde so highly extolled in the <hi>Fathers.</hi>
+                        </p>
+                        <p n="2">2. They loved to lye <hi>hard.</hi> The professed <hi>Mortifiers,</hi>
+                           <pb n="47" facs="tcp:20188:24"/> had no other <hi>bed,</hi> then the <hi>ground,</hi> or a <hi>matt:</hi> which is frequent in <hi>Palladius,</hi> and <hi>Ruffinus. Clemens Alexandrinus</hi>
+                           <note n="i" place="margin">
+                              <hi>Ibid.</hi> Where see more of his directions for lodgings.</note> commends <hi>hard lodging:</hi> which by a pretty word, hee calls the naturall or <hi>kindly Schoole of digestion.</hi>
+                        </p>
+                        <p n="3">
+                           <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3. They rose to pray, nightly: which was expected from all <hi>Christians.</hi> We must rise many times, out of our bed to pray, and praise God: sayd <hi>Clemens Alexan<g ref="char:EOLhyphen"/>drinus</hi>
+                           <note n="k" place="margin">Clem. Alex. ibid.</note>. This was <hi>Tertullians</hi> argument, to <hi>Christians</hi> to eate but moderately at their <hi>Love-feast Suppers:</hi> as be<g ref="char:EOLhyphen"/>ing to remember, that <hi>God was by night to bee wor<g ref="char:EOLhyphen"/>shipped</hi>
+                           <note n="l" place="margin">
+                              <hi>Tertul. in Apologet. c.</hi> 39.</note>. And otherwhere<note n="m" place="margin">
+                              <hi>L.</hi> 2. <hi>ad Vxor. c.</hi> 4. <hi>&amp;</hi> 5.</note>, hee twice mentions <hi>rising</hi> a nights: and that as well to <hi>private devotions</hi> as to the <hi>Church prayers. Minucius Foelix</hi> also, mentions <hi>occulta et nocturna Sacra; private prayers by night</hi>
+                           <note n="n" place="margin">Min. Foelix.</note>. And <hi>Iustinian Martyr</hi>
+                           <note n="o" place="margin">Just. Martyr. dialogo, cum Tryphone.</note> (before them all) speakes of praying by <hi>day and by night.</hi> For this purpose, the night was divided into <hi>Canonicall howers;</hi> or certaine times of <hi>rising</hi> to pray<g ref="char:EOLhyphen"/>ers. <hi>At midnight will I rise to give thankes unto thee,</hi> said the man after Gods owne heart<note n="p" place="margin">Psal. 119. 62.</note>. Marke here, that he praysed not God, <hi>lying;</hi> but used to <hi>rise</hi> and doe it. At other howers, the Saints may <hi>sing alowd upon their beds</hi>
+                           <note n="q" place="margin">Psal. 149. 5.</note>. And the <hi>Spouse</hi> may seeke her <hi>Christ</hi> in the bed <hi>by night</hi>
+                           <note n="r" place="margin">Cant. 3. 1.</note>: but when a <hi>Canonicall hower</hi> comes (of which <hi>midnight</hi> was one) <hi>David</hi> will <hi>rise</hi> to his devotions. Thus did the <hi>Apostles,</hi> too. At <hi>midnight Paul and Silas prayed, and sang praises unto God</hi>
+                           <note n="s" place="margin">Act. 16. 23.</note>. The <hi>morning watch,</hi> was another <hi>Canonicall hower.</hi> And this <hi>David</hi> was so carefull to ob<g ref="char:EOLhyphen"/>serve, that he oft-times waked before it: <hi>Mine eyes pre<g ref="char:EOLhyphen"/>vent the night watches</hi>
+                           <note n="t" place="margin">Psal. 119.</note>. <hi>and prevent the dawning of the morning</hi>
+                           <note n="u" place="margin">147, 148.</note>.</p>
+                        <p>The practice of the devout <hi>primitives;</hi> and the <hi>Cano<g ref="char:EOLhyphen"/>nicall nightly howers,</hi> in imitation of such examples ob<g ref="char:EOLhyphen"/>served, are so frequent; and knowne so commonly: that
+<pb n="48" facs="tcp:20188:25"/> I had rather <hi>Francolinus</hi>
+                           <note n="x" place="margin">
+                              <hi>Francolinus de Horis Canon<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>
+                              </hi> in his first foure Chap<g ref="char:EOLhyphen"/>ters.</note> and <hi>Bonartius</hi>
+                           <note n="y" place="margin">
+                              <hi>Bonartius de Institut. horar. Canon. c.</hi> 19. &amp;c.</note>, should have the thankes for discussing them; then further enlarge my selfe upon them. This <hi>Item,</hi> I dismisse you with. That who ever despiseth these <hi>night-devotions</hi> of the <hi>An<g ref="char:EOLhyphen"/>cients;</hi> shall know himselfe before-hand condemned by Saint <hi>Hierome</hi>
+                           <note n="z" place="margin">
+                              <hi>Hierom. Epist.</hi> 53. <hi>Et in tibro adversus Vigi<g ref="char:EOLhyphen"/>lantius.</hi>
+                           </note> in the person of <hi>Vigilantius</hi> the <hi>Heretick:</hi> whom for this <hi>drowzie</hi> conceit, that <hi>Father</hi> new-named <hi>Dormitantius.</hi> wondring not a little, that <hi>the Bishop did not excommunicate him for it.</hi> It should appeare also by <hi>Epiphanius</hi>
+                           <note n="a" place="margin">
+                              <hi>Epiphan. Pa<g ref="char:EOLhyphen"/>nario. Haeresi</hi> 42. <hi>p.</hi> 335. <hi>Refut.</hi> 35</note>, That <hi>Marcion</hi> the <hi>Hereticke</hi> (a hundred yeares, before this) had put off the <hi>Night-watch,</hi> and the <hi>devotion</hi> of it; to the <hi>Morning.</hi> and for gayning some colour of <hi>authoritie;</hi> to his <hi>layzinesse:</hi> had, in plaine termes, corrupted the very words of our <hi>Saviour</hi>
+                           <note n="b" place="margin">Luk. 12. 38.</note>, con<g ref="char:EOLhyphen"/>cerning the <hi>second</hi> and <hi>third Watch</hi> of the <hi>night:</hi> which the <hi>Church</hi> of those <hi>Ages</hi> tooke for their authoritie, in their <hi>night-rising.</hi> I hope, now, that notwithstanding our <hi>devotions</hi> serve us not to <hi>imitate</hi> the <hi>Prophets,</hi> the <hi>A<g ref="char:EOLhyphen"/>postles,</hi> and the <hi>Primitives▪</hi> yet we will forbeare to take part with the old <hi>Hereticks,</hi> in reprehending them.</p>
+                        <p>True it is, that the <hi>nightly meetings,</hi> or <hi>before day-light assemblies</hi> of the <hi>Christians,</hi> neere unto our Saviours time: were for feare of <hi>persecution</hi>
+                           <note n="c" place="margin">See <hi>Plynies</hi> Epistle to <hi>Trajan.</hi>
+                           </note>. But yet the <hi>devotion</hi> de<g ref="char:EOLhyphen"/>cayed not, with the <hi>Churches</hi> obteyning freedome: the <hi>Ecclesiasticall Stories</hi> of the third, fourth, and fifth hun<g ref="char:EOLhyphen"/>dred <hi>Ages;</hi> being plentifull of examples, of the <hi>nightly processions</hi> of the <hi>Christians.</hi> Yea they went from their houses in the cities; to some of their <hi>Churches</hi> in the field: singing <hi>Psalmes</hi> all the way, thorow the streets, in the hearing of the <hi>Gentiles.</hi> And so much of their <hi>Ordinary Mortifications:</hi> I come now to their <hi>Extraor<g ref="char:EOLhyphen"/>dinary.</hi>
+                        </p>
+                     </div>
+                     <div n="2" type="actions">
+                        <pb n="41" facs="tcp:20188:25"/>
+                        <head>2. Extraordinary <hi>Mortifications.</hi>
+                        </head>
+                        <p>The <hi>Watchings,</hi> and <hi>Fastings,</hi> before mentioned; were like a <hi>trade</hi> of life to them; <hi>ordinary,</hi> and <hi>daily.</hi> beyond which, they learned of the <hi>Apostle,</hi> to make themselves <hi>suffer,</hi> or <hi>doe;</hi> some things <hi>above measure</hi>
+                           <note n="d" place="margin">2 Cor. 11. 23. 27.</note>. In <hi>wearinesse and painefulnesse, in watchings often; in hunger and thirst, in fastings often; in cold and nakednesse. besides those things that came upon them daily,</hi> to fill up the rest of the affli<g ref="char:EOLhyphen"/>ctions of Christ in their flesh<note n="e" place="margin">Colos. 1. 24.</note>. But I make choyce to instance, onely in the extraordinary <hi>Watchings</hi> and <hi>Fa<g ref="char:EOLhyphen"/>stings</hi> of the devouter Primitives.</p>
+                        <p>Before a greater <hi>Festivall;</hi> all the devouter sort of<note place="margin">1. Their watchings extraordinary.</note>
+                           <hi>Christians,</hi> constantly repayred to their Churches at <hi>midnight.</hi> As at the <hi>Consecration</hi> of a Church; for ex<g ref="char:EOLhyphen"/>ample. Saint <hi>Basil</hi>
+                           <note n="f" place="margin">
+                              <hi>Basil. To.</hi> 1. <hi>Homil. in</hi> Psalm. 114.</note> having two Churches (with some distance of ground, betweene) to <hi>consecrate</hi> in one day: the Congregation repayred to the Church hee was to come last unto, at <hi>midnight</hi> before. yea and <hi>hungry</hi> as they were (which the <hi>Father</hi> in his <hi>Consecration-Sermon</hi> takes notice of) the whole people continued their <hi>pray<g ref="char:EOLhyphen"/>ings</hi> and their <hi>Psalme-singings</hi> (because the Church be<g ref="char:EOLhyphen"/>ing not yet <hi>consecrated,</hi> they might have no <hi>Liturgy</hi> or <hi>Common Prayers</hi> in it) even till <hi>high-noone,</hi> that the Bi<g ref="char:EOLhyphen"/>shops leasure could serve to come to them.</p>
+                        <p>But their observation of <hi>Easter-Eve,</hi> was yet more wonderfull. All that <hi>Saturday night,</hi> the whole <hi>Chri<g ref="char:EOLhyphen"/>stian</hi> world, was gotten into their Churches: even the <hi>Nobility</hi> and the <hi>Magistracy,</hi> as well as the meanest <hi>Commoner.</hi> So Saint <hi>Gregory Nazianzen</hi>
+                           <note n="g" place="margin">
+                              <hi>Nazianzen. Orat.</hi> 41.</note>. And among them, the <hi>word of God resounded all night: in Psalmes and Hymnes:</hi> sayes Saint <hi>Gregory Nyssen</hi>
+                           <note n="h" place="margin">
+                              <hi>Nyssen. Orat.</hi> 5. <hi>de Resur.</hi>
+                           </note>. By <hi>all night,</hi> we meane till the first <hi>Cock-crowing:</hi> at which time, the holy <hi>Primitives</hi> brake up their solemne <hi>Lent-fasting.</hi>
+                           <pb n="42" facs="tcp:20188:26"/> that being beleeved, to be the very precise time, of our <hi>Saviours Resurrection</hi>
+                           <note n="i" place="margin">
+                              <hi>Niss<gap reason="illegible" resp="#murp" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>n. Orat.</hi> 2.</note>. By this time, the <hi>solemne</hi> and <hi>publike Baptisme,</hi> (annually on <hi>that,</hi> and <hi>Whitsun-Eve,</hi> administred) was also finished. and even then, the Con<g ref="char:EOLhyphen"/>gregation <hi>brake up;</hi> and began to <hi>rejoyce</hi> exceedingly, for the <hi>Resurrection</hi> of their <hi>Saviour.</hi> Then also the <hi>Bishop,</hi> (all faint with his <hi>paines</hi> and <hi>fasting)</hi> retyred to refresh himselfe: as <hi>Chrysologus</hi> hath told us<note n="k" place="margin">
+                              <hi>Chrysologus.</hi> Sermon 74.</note>.</p>
+                        <p>Most precise and severe observers, were they of the<note place="margin">2. Their Fa<g ref="char:EOLhyphen"/>stings extra<g ref="char:EOLhyphen"/>ordinary.</note>
+                           <hi>Lenten fast:</hi> which the whole <hi>Primitive Church</hi> belee<g ref="char:EOLhyphen"/>ved, to be of <hi>Apostolicall institution.</hi> So that they had their <hi>Saviours,</hi> and his <hi>Apostles</hi> examples also; for that <hi>strictnesse.</hi> Yea, least their <hi>soules</hi> should have growne <hi>leane:</hi> they did <hi>alere &amp; saginare se; nurse up</hi> and <hi>batten</hi> themselves (as <hi>Tertullians</hi> phrases are) with more <hi>Fa<g ref="char:EOLhyphen"/>sting Seasons</hi> in the yeare, then that great and solemner <hi>Lenten</hi> one. Yea and this, in the <hi>middle Ages</hi> of the Church, too: when a man might have expected, <hi>Devo<g ref="char:EOLhyphen"/>tion</hi> should have beene cooled. But this, because <hi>lower</hi> then the times <hi>Primitive,</hi> (which I confine my selfe to) I leave you to read in my learned friend <hi>Filesacus</hi>
+                           <note n="l" place="margin">
+                              <hi>Filesaci Opera varia: de qua<g ref="char:EOLhyphen"/>dragessima c.</hi> 3.</note>: and in the <hi>Decrees</hi> of <hi>Burchard</hi>
+                           <note n="m" place="margin">
+                              <hi>Burch l.</hi> 19. <hi>c.</hi> 5.</note>.</p>
+                        <p>I passe by their observation of the <hi>Wednesdayes</hi> and <hi>Fridayes</hi> fast, weekely: which <hi>Epiphanius</hi>
+                           <note n="n" place="margin">
+                              <hi>Epiphan. Pa<g ref="char:EOLhyphen"/>nario. To.</hi> 1. <hi>Haeresi.</hi> 77. <hi>n.</hi> 6. <hi>p.</hi> 910.</note> (among ma<g ref="char:EOLhyphen"/>ny others) assures us to bee of <hi>Apostolicall Institution.</hi> Even these two dayes, the strict <hi>old Fathers;</hi> did yet ob<g ref="char:EOLhyphen"/>serve with more severitie. Beyond all which, all solem<g ref="char:EOLhyphen"/>ner <hi>Actions</hi> or <hi>Occasions</hi> of the <hi>Church;</hi> were begunne with a <hi>Fast.</hi> When the <hi>Church</hi> desired Saint <hi>Iohn,</hi> to write his <hi>Gospell:</hi> the <hi>Apostle</hi> appointed a <hi>Fast</hi> for the <hi>God speed</hi> of it, all the world over<note n="o" place="margin">Hierome Pro<g ref="char:EOLhyphen"/>ae<gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>io in Mat<g ref="char:EOLhyphen"/>thaeum.</note>. When <hi>Ministers</hi> were to be ordeined; the Church fasted, and <hi>prayed</hi> for them: which they learned from the <hi>Apostles</hi> doing so,
+<pb n="43" facs="tcp:20188:26"/> upon the like occasions<note n="p" place="margin">Act. 13. 3. Act. 14. 23.</note>. And hence have the <hi>Iejunia quatuor Temporum,</hi> our fowre <hi>Ember weekes;</hi> their origi<g ref="char:EOLhyphen"/>nall. Adde hereunto, that he was no body in those de<g ref="char:EOLhyphen"/>vouter dayes; which kept not his <hi>Stations</hi> or <hi>votive fasts:</hi> to obteine some private blessing, for <hi>himselfe</hi> or <hi>family.</hi> For besides the <hi>Wednesday</hi> or <hi>weekly Station;</hi> which was ordinary: the <hi>Primitives</hi> had <hi>Stationes ex arbitrio obeundas,</hi> Fasts when men were so disposed: as <hi>Tertullian</hi> intimateth<note n="q" place="margin">
+                              <hi>Tertull. l. de Jejun. cap.</hi> 10.</note>. The word was not onely taken from <hi>Sol<g ref="char:EOLhyphen"/>diers;</hi> and their standing to maintaine their <hi>Poast</hi> or <hi>Guard,</hi> so long time<note n="r" place="margin">
+                              <hi>Tertull. l. de Orat. c.</hi> 14.</note>: but was given occasion to, by that of our <hi>Saviour;</hi> when <hi>yee stand to pray</hi>
+                           <note n="s" place="margin">Mark 11. 25.</note>. Yea <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi>
+                           <note n="t" place="margin">
+                              <hi>Tertull. l. de Anima. c.</hi> 48.</note> sayes, that the Prophet <hi>Daniel, witherd away him<g ref="char:EOLhyphen"/>selfe with a three weekes Station:</hi> or fasting and prayer. And from these <hi>Masters,</hi> the Church learned the <hi>De<g ref="char:EOLhyphen"/>votion.</hi>
+                        </p>
+                        <p>Now these <hi>Stations</hi> or personall set <hi>Fasts:</hi> they some<g ref="char:EOLhyphen"/>times held at Church: beginning <hi>Mane novo</hi> early in the morning (as <hi>Prudentius</hi> saith) and continuing till <hi>Mor<g ref="char:EOLhyphen"/>ning Prayer time.</hi> which having heard, it seemes they withdrew themselves to some private corner of the Church; after the <hi>first Service,</hi> when the <hi>Catechumeni</hi> or <hi>unbaptized</hi> were put out. So much <hi>Tertullian</hi> intimates,<note place="margin">
+                              <hi>Tertull. l. de Orat. c.</hi> 14.</note>
+                           <hi>l. de Orat. c.</hi> 14. where hee sayes these <hi>Fasters</hi> did <hi>sub<g ref="char:EOLhyphen"/>trahere osculum,</hi> forbeare the <hi>holy kisse.</hi> the time for which, was in the beginning of the <hi>second Service,</hi> or <hi>Of<g ref="char:EOLhyphen"/>fice</hi> for the <hi>Communion:</hi> immediately before the <hi>Offering,</hi> and the <hi>Dyptichs. Tertullian</hi> meanes, that these <hi>Fasters</hi> thinking their <hi>Fast</hi> would be broken, should they eat the <hi>Lords body:</hi> forbare to communicate. So these <hi>stations</hi> were in a <hi>Church.</hi> in no place else, had they occasion to forbeare the <hi>holy kisse.</hi> Yet, they held them any where, could they not come at Church. So Bishop <hi>Fructuosus</hi>
+                           <pb n="44" facs="tcp:20188:27"/> being in prison, exhorted the <hi>Confessors</hi> with him, <hi>Mecum state viri,</hi> hold a Fast with me, <hi>good people.</hi> Whereupon, when some of them desirous to receive the Communion before their deaths; as being instantly to be <hi>martyred:</hi> had for that purpose (as the manner was) offered him (being a Bishop) the <hi>holy Cup</hi> of wine to <hi>consecrate: Iejunamus, ait, recuso potum. Nondum nona diem resignat hora. I hold a fast</hi> (saith he) <hi>and therefore refuse to drinke: for tis not three a clock yet.</hi> So <hi>Prudentius</hi>
+                           <note n="z" place="margin">
+                              <hi>Prudent. l. Peristeph. hymno</hi> 6.</note>.</p>
+                        <p>Where you see two things. First, that <hi>Tertullians</hi> argu<g ref="char:EOLhyphen"/>ments in his booke <hi>de Oratione;</hi> had not yet perswaded all (if any) to <hi>communicate,</hi> on the day they <hi>fasted.</hi> and se<g ref="char:EOLhyphen"/>condly, that they continued it, till after <hi>Evening Prayer.</hi> In which (as <hi>Prudentius</hi> sayes, within a few verses after) the <hi>Church</hi> had our Saviours example on the Crosse: who dying at that hower, refused to drinke, though hee thirsted.</p>
+                        <p>And these were the <hi>mortifying devotions,</hi> of the Pro<g ref="char:EOLhyphen"/>phets or <hi>Apostles,</hi> first: and afterwards, either of the whole Chucrh <hi>primitive;</hi> as were some of them: or else of divers professed <hi>mortifiers:</hi> who continued al of them. yea, the <hi>Church Catholick</hi> was so famous for these <hi>devotions;</hi> and oftentimes so <hi>miraculous:</hi> that even the very <hi>Here<g ref="char:EOLhyphen"/>ticks,</hi> (either for <hi>vaine-glories</hi> sake, or to procure the more <hi>reverence</hi> to their falshoods) would not omit to contend with the <hi>orthodoxe Christians,</hi> in them. The <hi>Ar<g ref="char:EOLhyphen"/>rians</hi>
+                           <note n="a" place="margin">
+                              <hi>Anastasius Nicaenus: apud Filesac. de Qua<g ref="char:EOLhyphen"/>dragesima. c.</hi> 7.</note> hereupon, eeked out their <hi>Lent:</hi> by adding ano<g ref="char:EOLhyphen"/>ther <hi>weeke</hi> to it. <hi>Montanus</hi> became so vehement a Pa<g ref="char:EOLhyphen"/>trone, for <hi>Chastity</hi> and for <hi>Fasting:</hi> that his <hi>zeale</hi> turn'd into <hi>fury;</hi> and became part of his <hi>heresie</hi>
+                           <note n="b" place="margin">
+                              <hi>Hierome, in Matth.</hi> 9. <hi>Alii.</hi>
+                           </note>.</p>
+                        <p>The impious <hi>Pelagius,</hi> was highly esteemed for his <hi>austere</hi> life; as appeareth by S<seg rend="sup">t</seg>. <hi>Augustine,</hi> and S. <hi>Chry<g ref="char:EOLhyphen"/>sostome</hi>
+                           <note n="c" place="margin">
+                              <hi>August. l. de peccat: meritis &amp; remiss. &amp; Retract. lib.</hi> 2. <hi>cap.</hi> 33. <gap reason="illegible" resp="#murp" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>
+                              <hi>Chrysost. To.</hi> 4. <hi>Epist.</hi> 4. <hi>ad O<g ref="char:EOLhyphen"/>lymp. in fine. p.</hi> 751.</note>. The <hi>Manichees</hi> also, drew many Disciples and
+<pb n="45" facs="tcp:20188:27"/> Admirers to them; by their showe of <hi>chastity</hi> and severe <hi>continencie:</hi> sayes St. <hi>Augustine</hi>
+                           <note n="d" place="margin">
+                              <hi>Aug. l de Mo<g ref="char:EOLhyphen"/>ribus Ecclesiae. c.</hi> 1.</note>. Yea, and which I most admire; even the <hi>Macedonian</hi> hereticks, that denied the <hi>Dietie</hi> of the <hi>Holy Ghost:</hi> are very much commended by St. <hi>Gregory Nazianzen</hi>
+                           <note n="e" place="margin">Nazianzen.</note>; for their <hi>watchings, Fasting,</hi> fre<g ref="char:EOLhyphen"/>quent <hi>Prayers;</hi> and all other <hi>exercises</hi> of <hi>devotion.</hi>
+                        </p>
+                     </div>
+                     <div n="3" type="actions">
+                        <head>3. <hi>Enjoyned Mortifications.</hi>
+                        </head>
+                        <p>'Twere farre beyond the patience of a <hi>Sermon;</hi> to bring in what would fill up a <hi>volume.</hi> even the <hi>Rules</hi> and <hi>examples</hi> of such <hi>Penances,</hi> as by the <hi>Church primitive</hi> were imposed upon <hi>offenders.</hi> Let it suffice to have no<g ref="char:EOLhyphen"/>ted thus much; that for the most part they were no other, then what wee have before spoken of: even such as the <hi>devouter</hi> sort, exacted of themselves dayly. For by what meanes, better, should some be <hi>reclaymed</hi> from <hi>ill doing:</hi> then the selfe same, by which others had been <hi>kept</hi> from it? Such <hi>hardships</hi> they were, as helpt to <hi>mor<g ref="char:EOLhyphen"/>tifie</hi> the Sinner: not to make him <hi>ridiculous.</hi> As to make a Priest <hi>Skull</hi> in a kitchin, for a day; whom to morrow they should reverence at the <hi>Altar.</hi> Much lesse enjoyned they such a number or <hi>Bead-rowe</hi> of <hi>Prayers,</hi> for a <hi>Penance:</hi> and then allowe the <hi>Penitents</hi> to play them away. The practise, I heare, in many <hi>Iesuites Colledges.</hi> Where the young <hi>Seminaries</hi> play at some <hi>field</hi> or <hi>Garden-game;</hi> one and thirty out (perhaps) for so many enjoyned <hi>Prayers</hi> or <hi>Ave-Maries:</hi> which the <hi>loser</hi> must babble over, for the <hi>winner.</hi> Glad is he that can <hi>play</hi> away his <hi>Prayers:</hi> and perhaps he <hi>curses</hi> his ill luck, that must <hi>pray</hi> them.</p>
+                        <p>Thus did not the sincerely <hi>mortifying Primitives:</hi> who tam'd their bodies, in good earnest▪ and that both to stay <hi>sinne</hi> in themselves: and consequently, to make stay of of Gods <hi>wrath</hi> and <hi>judgements.</hi> And this were they so successefull in: that <hi>Tertullian</hi>
+                           <note n="f" place="margin">
+                              <hi>Tertull. in A<g ref="char:EOLhyphen"/>polog. cap.</hi> 40.</note> askes a bold question,
+<pb n="46" facs="tcp:20188:28"/>
+                           <hi>Quando non geniculationibus nostris, depulsae siccitates? When was there a drought, I pray, which by our fasting and prayer, not removed?</hi>
+                        </p>
+                        <p>Where, now, is the Spirit of these <hi>Eliahs</hi>
+                           <note n="g" place="margin">2. King. 2. 14. 15.</note>? Oh that we had it! not <hi>doubled;</hi> but even <hi>halfe</hi> of it: in these our delicater dayes. So farre wee are from <hi>mortifying,</hi> that I feare, the <hi>Apostolicall</hi> practise wee have heard of: some amongst us, in their hearts may censure for <hi>Will-worship,</hi> for <hi>Superstition,</hi> or for <hi>Popery.</hi>
+                        </p>
+                        <p>
+                           <hi>Popery!</hi> I mislike <hi>heartily:</hi> even <hi>all</hi> of it: and as <hi>cordi<g ref="char:EOLhyphen"/>ally</hi> as any man. Yea let others take heed, they doe not the <hi>Papists</hi> more honour then they meane them; by ma<g ref="char:EOLhyphen"/>king this <hi>Doctrine</hi> to be <hi>Popery.</hi>
+                        </p>
+                        <p>Know we, in the meane time, that the way of our li<g ref="char:EOLhyphen"/>ving, can never breede an <hi>Eliah</hi> or a <hi>David:</hi> and if the <hi>Age</hi> does; Lord how hee is censured! Yea truly (mee thinks) <hi>Religion</hi> for the <hi>practise</hi> of it, is now so much al<g ref="char:EOLhyphen"/>tered: that should the <hi>Fathers</hi> of the <hi>Nicene Councell,</hi> now live againe; they could hardly discerne it for the same thing. In matters of <hi>Faith,</hi> indeed, and of <hi>opinion:</hi> We, of all <hi>moderne Churches,</hi> approach neerest to the <hi>Aposto<g ref="char:EOLhyphen"/>lically Primitive.</hi> But for maters of <hi>practise,</hi> in <hi>denying</hi> of the world, in <hi>mortifying,</hi> and in <hi>exercise</hi> of <hi>Devotion:</hi> there wee leave them. And I wish we did no more then <hi>leave</hi> them: or that wee would <hi>leave</hi> them. and not by censuring, condemne them into our <hi>Purgatory;</hi> when they enjoy a place of <hi>rest,</hi> in Gods <hi>secret.</hi> The plot will never take, God knowes: of our hoping to justifie our owne <hi>Remissenesse,</hi> by censuring of their <hi>Strictnesse.</hi>
+                        </p>
+                        <p>What other <hi>mortification,</hi> now adayes, thinke such of; as have but too much need of it: then what <hi>Tertullian</hi>
+                           <note place="margin">
+                              <hi>Tertull. l. de Poenitent. c.</hi> 11.</note> makes himselfe pleasant with? <hi>Come, bring the Curling-Irons, my Perfumes, my Fucus</hi> and <hi>Complexions, and the</hi>
+                           <pb n="47" facs="tcp:20188:28"/>
+                           <hi>last new fashion: the richest wine, and best meate that can be gotten. And if a friend should aske, what meanes all this? Tell him, Thou hast sorely offended God, art in danger of dam<g ref="char:EOLhyphen"/>nation: and art in this sort about to macerate and mortifie thy proud flesh; and to reconcile thy offended God unto thee.</hi> Were not this a <hi>delicate</hi> way, thinke you, to stay a <hi>Plague,</hi> or a <hi>Drought</hi> with?</p>
+                        <p>But when, indeed, you doe goe about <hi>mortifying:</hi> in your owne Consciences, whether is the <hi>sincerer</hi> way; <hi>yours,</hi> or that of the <hi>Apostolicall Primitives?</hi> What theirs was; you have already heard. doe but examine your owne, a little: for indeed it will not endure overmuch examining. When the <hi>Piety</hi> of the <hi>State,</hi> last yeare, ap<g ref="char:EOLhyphen"/>pointed a <hi>Fast</hi> for the removing of these publike <hi>Iudge<g ref="char:EOLhyphen"/>ments:</hi> Did people, indeed, <hi>Fast</hi> as they ought? I am a<g ref="char:EOLhyphen"/>fraid, a man might say of divers of our <hi>Fasters;</hi> as the <hi>Apostle</hi> did, of the <hi>Corinthian</hi> abusers of the <hi>Lords Sup<g ref="char:EOLhyphen"/>per:</hi>
+                           <note place="margin">1 Cor. 11. 20.</note> that <hi>one taketh before other, his owne breakfast at home.</hi> A <hi>bitt</hi> in a <hi>morning;</hi> a <hi>draught</hi> before you <hi>went</hi> to Church; or after the <hi>Morning Sermon:</hi> I am afraid, too many <hi>afflicted</hi> themselves this way. What was this, but to <hi>come together for condemnation?</hi> yea, and to <hi>mocke,</hi> and<note place="margin">34.</note>
+                           <hi>provoke</hi> God Almightie.</p>
+                        <p>Truely, you had no reason to be confident, of turning away Gods <hi>anger,</hi> by such <hi>fasting:</hi> which they, perhaps, were <hi>conscious</hi> enough of; that rather trusted to <hi>preach<g ref="char:EOLhyphen"/>ing,</hi> then to <hi>fasting▪</hi> and esteemed not the <hi>Fasting,</hi> and the <hi>Prayers:</hi> but the <hi>Sermon,</hi> to bee the <hi>holyest meanes</hi> to ap<g ref="char:EOLhyphen"/>pease God withall. yea and without a <hi>Sermon</hi> (of what <hi>Theme</hi> soever it were, and how ever full of <hi>vanities</hi> and <hi>uncharitable censurers:</hi> But without a <hi>Sermon;</hi> the en<g ref="char:EOLhyphen"/>crease of the <hi>Sicknesse</hi> is doomed: and the <hi>weekely Bills</hi> produced, for the proofe of it. But have they no <hi>surer</hi>
+                           <pb n="48" facs="tcp:20188:29"/>
+                           <hi>word of prophecy</hi>
+                           <note n="a" place="margin">2 Pet. 1. 19.</note>? What if the <hi>decrease</hi> of the <hi>Sicknesse</hi> (blessed be God for it) should be retorted on them, now that there are no <hi>Sermons.</hi> Wert not an <hi>uncertaine</hi> Argu<g ref="char:EOLhyphen"/>ment? and hath not theirs, prov'd as uncertaine? But how came they of Gods <hi>Closet,</hi> trow? Well! the <hi>Apo<g ref="char:EOLhyphen"/>stolicall Primitives,</hi> knew no such <hi>Doctrine.</hi>
+                        </p>
+                        <p>
+                           <hi>Preaching,</hi> indeed, is a blessed meanes: and God ever encrease <hi>sound Preaching.</hi> but tis cleane another thing, from what should <hi>mortifie.</hi> namely, as of <hi>it selfe;</hi> and as <hi>Fasting</hi> and <hi>praying</hi> doe. The use of it is, to <hi>teach</hi> you how to <hi>mortifie:</hi> which I hope you are not so <hi>dull</hi> Hea<g ref="char:EOLhyphen"/>rers, as to need at every <hi>Sermon.</hi> for when, then, will you <hi>practise?</hi> The <hi>Sermon,</hi> besides, was added for your <hi>en<g ref="char:EOLhyphen"/>tertainment.</hi> even to <hi>hold in,</hi> peoples <hi>wandring thoughts:</hi> and to <hi>hold up</hi> their <hi>devotions.</hi> A <hi>bad,</hi> or too <hi>long</hi> a <hi>Sermon;</hi> might indeed <hi>weary</hi> the Auditory; make them <hi>fast</hi> longer then they would doe: and so <hi>mortifie</hi> them, those wayes. which yet were but a <hi>passive,</hi> not an <hi>active mortification,</hi> in the Hearers. And this way, if this <hi>Sermon</hi> of mine hath mortified the Auditory: it is the <hi>properer</hi> for the <hi>Theme.</hi> Perhaps it hath done that by <hi>tediousnesse:</hi> which it could not doe by <hi>perswasion.</hi> God worke that, in his good <hi>de<g ref="char:EOLhyphen"/>gree,</hi> and <hi>time;</hi> afterwards.</p>
+                        <p>He grant us <hi>grace,</hi> in the meane time; that we may cut off our Sinnes by <hi>mortification</hi> and <hi>repentance:</hi> and pre<g ref="char:EOLhyphen"/>vaile with his <hi>Mercy,</hi> by our <hi>Prayers;</hi> for the removing of his heavy <hi>Iudgements.</hi>
+                        </p>
+                        <closer>Amen.</closer>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:20188:29"/>
+         </div>
+      </body>
+   </text>
+</TEI>
